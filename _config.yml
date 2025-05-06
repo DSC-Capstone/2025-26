@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: DSC 180AB
 tagline: Data Science Capstone
-description: DSC 180AB, Fall 2024 and Winter 2025 at UC San Diego
+description: DSC 180AB, Fall 2025 and Winter 2026 at UC San Diego
 author: Umesh Bellur
-baseurl: '/2024-25' # the subpath of your site, e.g. /blog
+baseurl: '/2025-26' # the subpath of your site, e.g. /blog
 url: 'https://dsc-capstone.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -30,9 +30,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Gradescope:
-    - 'https://www.gradescope.com/courses/861851'
+    - '#'
   Piazza:
-    - 'https://piazza.com/ucsd/fall2024/dsc180a/home'
+    - '#'
   Domain Descriptions:
     - 'https://dsc-capstone.github.io/enrollment'
 footer_content:
