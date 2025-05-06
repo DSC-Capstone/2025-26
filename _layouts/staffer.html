@@ -1,0 +1,50 @@
+<div class="staffer">
+  <hr>
+  {% if page.photo %}
+  <img class="staffer-image" src="{{ page.photo | relative_url }}" alt="">
+  {% endif %}
+  <div>
+    <h3 class="staffer-name">
+      {% if page.website %}
+      <a href="{{ page.website }}">{{ page.name }}</a>
+      {% else %}
+      {{ page.name }}
+      {% endif %}
+      {% if page.pronouns %}
+      <div class="staffer-pronouns"><b>{{ page.pronouns }}</b></div>
+      {% endif %}
+      {% if page.domains %}
+      <div class="badge-domains"><b>{{ page.domains }}</b></div>
+      {% endif %}
+    </h3>
+    <p>
+    {% if page.email %}
+    <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+    {% endif %}
+    </p>
+
+    <h6>Academic Background and Expertise</h6>
+
+    <p title="Current Position">🧑‍🏫 {{ page.current }}</p>
+
+    <p title="Education">🎓 {{ page.education }}</p>
+
+    {% if page.research %}
+    <p title="Research Interests">💭 {{ page.research }}</p>
+    {% endif %}
+
+    {% if page.expertise %}
+    <p title="Expertise">🧠 {{ page.expertise }}</p>
+    {% endif %}
+
+    <h6>Personal Life</h6>
+    <p title="Hometown">🏠 {{ page.hometown }}</p>
+
+    <p title="Outside of the classroom, ask me about...">🙋 {{ page.askabout }}</p>
+
+    <p title="Favorite food in San Diego">{{ page.foodemoji }} {{ page.food }}</p>
+
+    <!-- {{ content }} -->
+    
+  </div>
+</div>
