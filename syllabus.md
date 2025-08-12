@@ -45,7 +45,7 @@ Before the quarter begins:
 - Note that there is **only one live lecture this quarter where I will go over the expectations and what you will be experiencing during these two quarters. Date and time TBA**. All other methodology instruction will be provided asynchronously on this website. 
 - Make sure you can access the following sites; email the instructor if you can't:
     -  [Gradescope](https://www.gradescope.com/courses/1080553), where all assignments will be submitted.
-    - [Piazza](https://piazza.com/ucsd/fall2025/dsc180a/home), the discussion forum we will use for methodology. **All class-wide announcements will only be posted here!**
+    - [Piazza](https://piazza.com/ucsd/fall2025/dsc180), the discussion forum we will use for methodology. **All class-wide announcements will only be posted here!**
 
 Note that we will **not** be using Canvas at all this quarter.
 
