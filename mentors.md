@@ -24,15 +24,15 @@ This page contains all of the information you need to know as a domain mentor. C
 
 There are several action items mentioned throughout this page; they are summarized here.
 
-- [ ] Check the [**enrollment page**](https://dsc-capstone.org/enrollment) to see when and where your section is being held. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301).
-- [ ] Use [**this sheet**](https://docs.google.com/spreadsheets/d/1OnpqtAaOM8ot4emeqBYCsVQc59rFdBvUWDDlIf7eN7Y/edit?gid=738138438#gid=738138438) to find your students' names and emails. (Let the instructor know if you don't have access to the sheet.)
-  - [ ] Send an email introducing yourself to your students, asking them to complete any pertinent tasks, and reminding them that the first meeting is **the week of Monday, Sept 30th**.
+- [ ] Check the [**enrollment page**](https://dsc-capstone.org/enrollment) to see when and where your section is being held. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301). IF any of the information on the enrollment page is incorrect or needs to be changed for any reason, please contact the instructor ASAP. 
+- [ ] Use [**this sheet**](https://docs.google.com/spreadsheets/d/1RovvVrGeL9oF5mhkVI_bS6BLohVnL1oLgoBKBvzSEyU/edit?usp=sharing) to find your students' names and emails. (Let the instructor know if you don't have access to the sheet.)
+  - [ ] Send an email introducing yourself to your students, asking them to complete any pertinent tasks, and reminding them that the first meeting is **the week of Monday, Sept 29th**.
   - [ ] **If you're teaching a remote section, send your Zoom link to your students asap and keep the instructor in the loop**
   - [ ] Choose when to hold an hour of weekly office hours (outside of your discussion time) and share it with your students. (Note that we have not booked physical spaces for office hours – if you'd like additional physical rooms booked, let the instructor know.)
   - [ ] (Optional) Create a [website](#websites) or Drive folder for your section and share it with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/enrollment), let the instructor know.
   - [ ] (Optional) Create a Slack/Discord/Ed group for your section and share it with your students.
 
-**Remember that sections begin the week of Monday, September 30th (Week 1).** If you are meeting on days that are holidays (such as Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
+**Remember that sections begin the week of Monday, September 29th (Week 1).** If you are meeting on days that are holidays (such as Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
 
 ---
 
@@ -43,32 +43,33 @@ The capstone program is a **two-quarter sequence** (Fall 2025 and Winter 2026) i
 - students have material to follow and learn from when developing their own work, and
 - the scope of projects remain manageable for the time frame and appropriate for the level of the students.
 
-Students were shown the domain topics and descriptions that you provided [here](https://dsc-capstone.org/enrollment) in advance of the enrollment period and have already enrolled at this point. They are free to change the domain they are enrolled in during Week 1, but space is limited.
+Students were shown the domain topics and descriptions that you provided [here](https://dsc-capstone.org/enrollment) in advance of the enrollment period and have already enrolled at this point. 
 
 {: .blue }
-To help you calibrate your expectations, you should look at [last year's projects](https://dsc-capstone.org/showcase-24) if you haven't already.
+To help you calibrate your expectations, you should look at [last year's projects](https://dsc-capstone.org/showcase-25) if you haven't already.
 
 ---
 
 ## Program Overview
 
-As mentioned above, the capstone program spans two quarters. In both quarters, there are two components to the capstone: domain-specific instruction (provided by you) and methodology-specific instruction (provided by the instructor and the DSC 180AB TAs).
+As mentioned above, the capstone program spans two quarters. In both the quarters, there are two components to the capstone: domain-specific instruction (provided by you) and methodology-specific instruction (provided by the instructor and the DSC 180AB TAs). 
 
 | Quarter | Domain | Methodology |
 | --- | --- | --- |
-| 1 (Fall 2025) | Getting students up to speed in the domain by working on a guided project | Software development, reproducibility, environment independence |
-| 2 (Winter 2026) | Working on an original project | Project management, effective communication skills |
+| 1 (Fall 2025) | Getting students up to speed in the domain by working on a guided project. Creating a capstone proposal.  | Software development, reproducibility, environment independence |
+| 2 (Winter 2026) | Working on an original project proposed in the previous quarter | Project management, effective communication skills |
 
 ### Domain-Specific Instruction
 
 - **Quarter 1 (Fall 2025)** is designed to provide students an opportunity to acquaint themselves with a domain by working through a guided project that you prescribe. This constitutes their **Quarter 1 Project**. Often times, this involves replicating an existing paper, but you're free to guide your students however you see fit. During Quarter 1, students also form project groups and write/present proposals for their final project, known as the **Quarter 2 Project**.
 - **Quarter 2 (Winter 2026)** is when students execute their Quarter 2 Project.
 
-Throughout both quarters, you will hold an hour per week of discussion section. Students are required to attend these synchronous section meetings.
+Throughout both quarters, you will hold an hour per week of discussion section. Students are required to attend these synchronous section meetings - you as their mentor will track attendance at these weekly meets and report it back to the instructor at the end of the quarter besides using this information to decide on a participation grade. 
+
 - In Quarter 1, this hour should be spent answering questions students have on the readings and tasks you provide them with.
 - In Quarter 2, this hour should be spent checking in with students on their projects.
 
-You will also hold one hour per week of office hours throughout both quarters. More details and logistics on all of the above components are provided below.
+Besides the discussion section, you will also hold one hour per week of office hours throughout both quarters. More details and logistics on all of the above components are provided below.
 
 ### Methodology-Specific Instruction
 
@@ -148,7 +149,7 @@ feedback and guidance from domain mentors. The weekly schedule tries
 to facilitate that.**
 
 {: .red }
-Remember, discussions begin the week of Monday, October 2nd. Check [dsc-capstone.org/enrollment](https://dsc-capstone.org/enrollment) to see where and when your section is. If you're running your sections through Zoom, send your students your Zoom link via email. (Find your students [here](https://docs.google.com/spreadsheets/d/1HgUoFgO-PoyNKsHSCt4Rxjnh1X1CsyHTccKghtzRI1o/edit#gid=738138438)).
+Remember, discussions begin the week of Monday, Sept 29th. Check [dsc-capstone.org/enrollment](https://dsc-capstone.org/enrollment) to see where and when your section is. If you're running your sections through Zoom, send your students your Zoom link via email. (Find your students [here](https://docs.google.com/spreadsheets/d/1RovvVrGeL9oF5mhkVI_bS6BLohVnL1oLgoBKBvzSEyU/edit?usp=sharing)).
 
 <a name='participation-questions'></a>
 
@@ -177,7 +178,7 @@ All assignments in the course are generic, designed to work for most domains out
 
 | Assignment | Description | Groups | Due | Graded By |
 | --- | --- | --- | --- | --- |
-| [Quarter 1 Project](../assignments/projects/q1) | Students work on a guided project (e.g. replication) in your domain | Individual or groups (up to domain mentors) | Week 5 (checkpoint), Week 10 (final submission) | Report is graded by domain mentors on Gradescope; code feedback given by methodology staff  | 
+| [Quarter 1 Project](../assignments/projects/q1) | Students work on a guided project (e.g. replication) in your domain | Individual or groups (up to domain mentors) | Week 5 (checkpoint), Week 10 (final submission) | Report, representing effort and actual work done, is graded by domain mentors on Gradescope; code feedback given by methodology staff  | 
 | [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final project | Groups | Week 10 | Domain mentor |
 | [Participation Questions](#participation-questions) ([default questions](../assignments/participation/q1)) | Weekly questions to keep students engaged with the domain material  | Individual | Weekly, Sundays at midnight or at least 24 hours before discussion | Methodology staff (completion only); domain mentors should read to inform how to run discussion |
 | [Methodology Assignments](../) | Assignments that develop students' software development and project management skills. | Individual | Bi-weekly | Methodology staff |
