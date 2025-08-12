@@ -10,12 +10,12 @@ nav_exclude: true
 
 As you know, your main deliverable throughout the capstone sequence is your Quarter 2 Project. In order to ensure that you'll be able to successfully execute your project, you're required to submit a detailed proposal.
 
-The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **All components are due on Monday, December 2nd at 11:59PM to Gradescope.**
+The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **The proposal is due during the last week of classes (date TBA).**
 
 ### Groups
 {:.no_toc}
 
-Quarter 2 Projects **must** be worked on in groups; you cannot work individually. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should ask them how groups will be formed. You're required to sign up and attend the [**Week 8 TA Check-In**](https://dsc-capstone.org/2024-25/assignments/projects/q1-week-9-10-checkin) in groups, so you should try and identify your group sooner rather than later.
+Quarter 2 Projects **must** be worked on in groups; you may not work individually. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should take the lead and ask them how groups will be formed. You're required to sign up and attend the [**Week 8 TA Check-In**](https://dsc-capstone.org/2025-26/assignments/projects/q1-week-9-10-checkin) in groups, so you should try and identify your group sooner rather than later.
 
 ### Context
 {:.no_toc}
@@ -29,7 +29,7 @@ As such, you are required to write a project proposal here, not just to better p
 ### Example Quarter 2 Projects
 {:.no_toc}
 
-As you start to think about your Quarter 2 work, it's a good idea to look at what students in your shoes last year were able to accomplish in the span of 10 weeks. Below, you'll find some selected examples, though you can see all of last year's projects at [dsc-capstone.org/showcase-24](https://dsc-capstone.org/showcase-24), and all capstone projects ever at [this sheet](https://docs.google.com/spreadsheets/d/1HJkTHUDJbfIPrPuMJ_DmWCvivxv5YU8Z_E8YCZao-84/edit#gid=511346602). You'll learn more about the specific deliverables you'll be required to produce in Quarter 2 in January; for now, just focus on the big picture.
+As you start to think about your Quarter 2 work, it's a good idea to look at what students in your shoes last year were able to accomplish in the span of 10 weeks. Below, you'll find some selected examples, though you can see all of last year's projects at [dsc-capstone.org/showcase-24](https://dsc-capstone.org/showcase-25), and all capstone projects ever at [this sheet](https://docs.google.com/spreadsheets/d/1HJkTHUDJbfIPrPuMJ_DmWCvivxv5YU8Z_E8YCZao-84/edit#gid=511346602). You'll learn more about the specific deliverables you'll be required to produce in Quarter 2 in January; for now, just focus on the big picture.
 
 - **BlockBazaar - Smart Contracts for Decentralized E-Commerce**<br>
   Matin Ghaffari, Yu Huang, Alan Amirian, Wenyuan Chen (Mentor: Sheffield Nolan from Franklin Templeton)<br>🪧 [Poster](https://drive.google.com/file/d/1qNdCDuVi9iCtT_K80sjAAzl3AlYuNww1/view?usp=drivesdk) • 🌐 [Website](https://wenyuanchen1326.github.io/BlockBazaar/) • 📖 [Report](https://drive.google.com/file/d/190sUeABNC-E0qooRXufQDKANdHkc-RxM/view?usp=drivesdk.pdf) • 💻 [Code](https://github.com/matin-g/Q2-DSC180B-A02)
@@ -58,20 +58,21 @@ The most important component of your proposal submission is a written proposal. 
 - Provide enough detail for a domain expert to understand whether the project's goals are realistic to complete using the methods described and in the timeframe allocated.
 - Specify the project's primary output, e.g. a report/paper, a website, or an application. (Note that even if your primary output is a website, you will still have to write a paper, and vice versa.)
 
-Like the Introduction section of a paper, which we discussed in [Lesson 4](https://dsc-capstone.org/2024-25/lessons/04#-introduction), a written proposal should consist of three parts, that start broad and get increasingly narrower. In fact, you will reuse a lot of your written proposal when writing your Quarter 2 Project's introduction section – and you may even see a lot of overlap between your written proposal and Quarter 1 Project report.
+Like the Introduction section of a paper, presented in the methodology lesson, a written proposal should consist of three parts, that start broad and get increasingly narrower. In fact, you will reuse a lot of your written proposal when writing your Quarter 2 Project's introduction section – and you may even see a lot of overlap between your written proposal and Quarter 1 Project report.
 
 Specifically, your written proposal should have three sections:
 
-1. A broad problem statement, with context to justify the investment in spending 10 weeks on the project. This should be accessible to anyone – for instance, methodology staff, your family and friends, and hiring managers for the jobs you apply to should all be able to read this and understand what you are proposing and why it matters.
+1. The context of the probem and why its worth solving and investing 10 weeks on the project. This should be accessible to anyone – for instance, methodology staff, your family and friends, and hiring managers for the jobs you apply to should all be able to read this and understand what you are proposing and why it matters.
 
-2. A narrow, careful problem statement for the domain expert. This section should discuss how these problems relate to the Quarter 1 Project in your domain. Has previous work attempted to answer these specific problems? If so, how did they fail? If not, why are these problems interesting? In what way does your investigation address a deficiency in the Quarter 1 Project? This section should be quite technical – make sure to refer to specific methods.
+2. A narrow, carefully crafted problem statement for the domain expert. Precision is key and I highly encourage you to try and specify this mathematically. Has previous work attempted to answer these specific problems? If so, how did they fail? If not, why are these problems still interesting? In what way does your investigation address a deficiency in existing solutions? This section should be quite technical – make sure to refer to specific methods.
 
 3. A statement of the primary output (i.e., state whether you will create a report/paper, a website, or an application). If your project _analyzes_ data, specify how you will communicate the analyses. If your project _generates_ data, how will you analyze the data it produces?
 
-In addition to the above structure, you need to justify why your project will be successful. In particular, if your project relies on data that was _not_ used in the Quarter 1 Project, you need to prove the following:
+In addition to the above structure, you need to outline what it will take for your project to be successful. In particular, if your project relies on data that was _not_ used in the Quarter 1 Project, you need to prove the following:
 - You can obtain the data.
 - The data contains the information needed.
-- The data is of sufficient quality.
+- The data is of sufficient quality and quantity.
+- You have access to compute resources needed to process the data
 
 The easiest way to do this is to actually obtain the data while writing the proposal and perform some preliminary analyses to ensure it will actually be able to help you accomplish your goals.
 
@@ -80,7 +81,7 @@ In years past, many groups fell in the trap of waiting until Quarter 2 to obtain
 
 ### Working in Groups
 
-**Your proposal will form a contract for what you will work on in Quarter 2.** You will have to work together and make decisions as a group, even if you may not fully agree with the choices. As you develop your proposal, consider the following:
+**Your proposal will form a contract for what you will work on and deliver in Quarter 2.** You will have to work together and make decisions as a group, even if you may not fully agree with the choices. As you develop your proposal, consider the following:
 - Try to agree on a general *theme* for what you want to
   investigate in your project.
 - You do *not* need to have 100% agreement on the proposal, rather you
@@ -95,13 +96,13 @@ Just as you're required to with your [Quarter 1 Project](https://dsc-capstone.or
 
 ### Ideation
 
-As of the release of these specifications, you may not be sure _what_ to propose for Quarter 2. That's totally fine. To help you get started, part of [Methodology Assignment 5](https://dsc-capstone.org/2024-25/assignments/methodology/05#part-2-markdown-and-github-pages) will have you brainstorm ideas based on your current understanding of your domain.
+As of the release of these specifications, you may not be sure _what_ to propose for Quarter 2. That's totally fine. To help you get started, part of your methodology assignments will have you brainstorm ideas based on your current understanding of your domain.
 
 Note that the amount of freedom you have in proposing your own project will depend on your mentor. In fact, your mentor may already have determined what your Quarter 2 Project will be, and that's fine. In any case, your mentor will play a crucial role in your proposal, as they'll be able to help you come up with a plan that you can realistically execute in 10 weeks under their guidance. Your final proposal submission should not surprise them at any point, because you should be discussing it with them regularly and incorporating their feedback.
 
 ### Deliverables and Grading
 
-You'll submit your written proposal as a PDF to Gradescope **as a group**. Like with your Quarter 1 Project, you must use our LaTeX template on Overleaf. Your mentor will grade your written proposal according to [this rubric](https://dsc-capstone.org/2024-25/syllabus#general-rubric).
+You'll submit your written proposal as a PDF to Gradescope **as a group**. Like with your Quarter 1 Project, you must use our LaTeX template on Overleaf. Your mentor will grade your written proposal according to [this rubric](https://dsc-capstone.org/2025-26/syllabus#general-rubric).
 
 <span class="fs-3">
 [Access the LaTeX template on Overleaf here.](https://www.overleaf.com/read/swwcqhtsdwbg#80379d){: .btn .btn-green }
@@ -114,8 +115,8 @@ You'll submit your written proposal as a PDF to Gradescope **as a group**. Like 
 ### Description
 
 You'll need to create a detailed plan of _what_ you will do each week in order to execute your proposal and complete your Quarter 2 Project. Your proposed schedule should include:
-- A **6 week** schedule with tasks and goals to be accomplished each week.
-- A delineation of responsibilities among group members in the 6 week schedule.
+- A **6 week** schedule with tasks and goals to be accomplished each week by each person. This needs to be a matrix of people of one axis and time on another axis. Each cell contains the deliverable for that person for the week in question. 
+- A broad delineation of responsibilities among group members in the 6 week schedule.
 
 By writing your schedule now, it'll make it clear to both your group and your mentor whether your project can be realistically completed in the given timeframe. When creating your schedule, use your domain's schedule and pace in Quarter 1 as a guide. What did you do each week? How much were you able to accomplish each week?
 
@@ -125,7 +126,7 @@ Note:
 - **DSC 180B – the capstone course you'll be enrolled in next quarter – is a 4-unit course, meaning that you should expect to spend 12 hours per week on it on average. Plan for 11 of those hours to be spent on your project. Quality work takes time!**
 
 {: .green }
-**While working on your schedule, consult [Methodology Lesson 9, on Project Management](https://dsc-capstone.org/2024-25/lessons/09) for tips on how to allocate tasks each week.**
+**While working on your schedule, consult methodology lessons for tips on how to allocate tasks each week.**
 
 ### Frequently Asked Questions
 
@@ -147,7 +148,7 @@ Divide tasks so that they take advantage of the strengths of your group members 
 
 ### Deliverables and Grading
 
-You'll submit your schedule as a PDF to Gradescope **as a group**. It will be separate from your written proposal PDF submission. We don't have any special formatting instructions for your schedule, though one idea is to make a table in a Google doc with one row per week and one column per group member, and submit a PDF of the doc. Your mentor will grade your schedule according to [this rubric](https://dsc-capstone.org/2024-25/syllabus#general-rubric).
+You'll submit your schedule as a PDF to Gradescope **as a group**. It will be separate from your written proposal PDF submission. We don't have any special formatting instructions for your schedule, though one idea is to make a table in a Google doc with one row per week and one column per group member, and submit a PDF of the doc. Your mentor will grade your schedule according to [this rubric](https://dsc-capstone.org/2025-26/syllabus#general-rubric).
 
 ---
 
@@ -168,14 +169,14 @@ The [typical anatomy](https://www.northwestern.edu/climb/pdfs-powerpoints/resour
 - Question: Clearly state the question that addresses the problem.
 - Hypothesis: State your proposed solution. Propose a clear, quantifiable hypothesis that will advance our understanding.
 
-This framework should sound familiar, and that's because we discussed something similar in [Lesson 4](https://dsc-capstone.org/2024-25/lessons/04). You may want to re-watch Professor Benjamin Smarr's [video](https://youtu.be/5O1MVncfbf4?si=z7X9Z9Nw5WWf94X5) as you start to write your elevator pitch.
+This framework should sound familiar, and that's because something similar is discussed in  a methodology lesson. You may want to re-watch Professor Benjamin Smarr's [video](https://youtu.be/5O1MVncfbf4?si=z7X9Z9Nw5WWf94X5) as you start to write your elevator pitch.
 
 {: .note }
 **Unlike the other components of the proposal, pitches will be delivered individually!**
 
 ### Examples
 
-Here are a few selected elevator pitches from last year's cohort.
+Here are a few selected elevator pitches from earlier cohorts.
 
 <table style="box-shadow:none;">
   <tr>
