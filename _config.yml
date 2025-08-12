@@ -30,9 +30,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Gradescope:
-    - '#'
+    - 'https://www.gradescope.com/courses/1080553'
   Piazza:
-    - '#'
+    - 'https://piazza.com/ucsd/fall2025/dsc180'
   Domain Descriptions:
     - 'https://dsc-capstone.github.io/enrollment'
 footer_content:
