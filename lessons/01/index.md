@@ -9,9 +9,9 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions on Piazza under the tag MA1. 
 
-Make sure to read this article before moving on to [Methodology Assignment 1](https://dsc-capstone.org/2024-25/assignments/methodology/01) (due Oct. 7)
+Make sure to read this article before moving on to [Methodology Assignment 1](https://dsc-capstone.org/2025-26/assignments/methodology/01) (due Oct. 6)
 {: .red }
-Make sure to also complete the [Welcome Survey](https://forms.gle/cWiaAe8BaPjso27n9) and submit it with Methodology Assignment 1!
+Make sure to also complete the [Welcome Survey](https://forms.gle/FmsEstPNhck3d6A26) and submit it with Methodology Assignment 1!
 
 ---
 
@@ -110,16 +110,16 @@ Now, you've been placed into an initial "jumpbox" server. Think of this initial 
 - There are several default launch scripts that exist, that initialize pre-configured servers with common tools pre-installed (like `pandas` and Jupyter Notebooks). When using a default launch script, there will always be some default amount of RAM, CPU, and GPU resources allocated, but you can provide flags when running the launch script to change these.
 - You can also create a custom launch script to initialize a custom environment with your own packages. We will see how to do this later.
 
-| **Step 2**: Now, in the same Terminal window enter `launch-scipy-ml.sh -W DSC180A_FA24_A00`. |
+| **Step 2**: Now, in the same Terminal window enter `launch-scipy-ml.sh -W DSC180A_FA25_A00`. |
 
-This will initialize a server with 2 CPUs, 8 GB of RAM, and no GPUS, which are the default settings for the launch script `launch-scipy-ml.sh`. If we instead wanted to ask for 8 CPUs and 32 GB of RAM, we could have run `launch-scipy-ml.sh -W DSC180A_FA24_A00 -c 8 -m 32`. This is not the only script that exists; for instance, we could have used `launch-scipy-ml-gpu.sh`. See [this page](https://support.ucsd.edu/services?id=kb_article_view&sys_kb_id=899d64931b6c991048e9cae5604bcb6e) for more details.
+This will initialize a server with 2 CPUs, 8 GB of RAM, and no GPUS, which are the default settings for the launch script `launch-scipy-ml.sh`. If we instead wanted to ask for 8 CPUs and 32 GB of RAM, we could have run `launch-scipy-ml.sh -W DSC180A_FA25_A00 -c 8 -m 32`. This is not the only script that exists; for instance, we could have used `launch-scipy-ml-gpu.sh`. See [this page](https://support.ucsd.edu/services?id=kb_article_view&sys_kb_id=899d64931b6c991048e9cae5604bcb6e) for more details.
 
-The `-W DSC180A_FA24_A00` tells DSMLP that we'd like to use the DSC 180A workspace, which means that you'll be able to access any files that we choose to share with the whole class, or your even just your specific section. For instance, if your mentor has a really large file they'd like your entire section to be able to access, they can upload it to DSMLP once and, through the `DSC180A_FA24_A00` workspace, all students in your section will be able to access it. This prevents each of you from having to transfer the file to DSMLP individually. Note that space on DSMLP is not unlimited; to view the amount of disk space you have left, navigate [here](https://datahub.ucsd.edu/hub/spawn), and at the `/hub/spawn` page, select the Services Tab > "disk-quota-service".
+The `-W DSC180A_FA25_A00` tells DSMLP that we'd like to use the DSC 180A workspace, which means that you'll be able to access any files that we choose to share with the whole class, or your even just your specific section. For instance, if your mentor has a really large file they'd like your entire section to be able to access, they can upload it to DSMLP once and, through the `DSC180A_FA25_A00` workspace, all students in your section will be able to access it. This prevents each of you from having to transfer the file to DSMLP individually. Note that space on DSMLP is not unlimited; to view the amount of disk space you have left, navigate [here](https://datahub.ucsd.edu/hub/spawn), and at the `/hub/spawn` page, select the Services Tab > "disk-quota-service".
 
 {: .green }
 There are a variety of flags that you can use with a launch script; we covered a few above (`-W`, `-c`, `-m`) but you aren't expected to memorize them all. Instead, if you use `-h` (e.g. `launch-scipy-ml.sh -h`), you'll see all of the possible launch options.
 
-Once you've run the launch script, you now have access to a computer with the resources mentioned above! Note that the server runs Linux, so all of the command-line commands you use should work on Linux (not necessarily Windows or macOS). See the [Command-Line Cheat Sheet](https://dsc-capstone.org/2024-25/command-line) for more tips.
+Once you've run the launch script, you now have access to a computer with the resources mentioned above! Note that the server runs Linux, so all of the command-line commands you use should work on Linux (not necessarily Windows or macOS). See the [Command-Line Cheat Sheet](https://dsc-capstone.org/2025-26/command-line) for more tips.
 
 <center><img src="assets/x0m7v.png" width="75%"></center>
 
@@ -130,7 +130,7 @@ Once you've run the launch script, you now have access to a computer with the re
 After running the launch script, you should see a link to a Jupyter Notebook at the very bottom of your Terminal window. For instance, in the case of the user ubellur:
 
 ```
-You may access your Jupyter notebook at: http://dsmlp-login.ucsd.edu:12733/user/ubellur/?token=ce5cfea8c9a8892593868b91ddc55b21ff61220989eb17d6ee303c6604609009
+You may access your Jupyter notebook at: http://dsmlp-login.ucsd.edu:12733/user/ubellur/?token=ce5cfea8c9a8892493868b91ddc55b21ff61220989eb17d6ee303c6604609009
 ```
 
 If you copy the link that you see in your Terminal and try to open it in your web browser, you will likely get an error. To access this Jupyter Notebook, you need to follow one of the following two options.
@@ -140,12 +140,12 @@ If you copy the link that you see in your Terminal and try to open it in your we
 Let's take a closer look at the example link provided above.
 
 ```
-http://dsmlp-login.ucsd.edu:12733/user/ubellur/?token=ce5cfea8c9a8892593868b91ddc55b21ff61220989eb17d6ee303c6604609009
+http://dsmlp-login.ucsd.edu:12733/user/ubellur/?token=ce5cfea8c9a8892493868b91ddc55b21ff61220989eb17d6ee303c6604609009
 ```
 
 Here, there are two components:
 - A port, `12733` in this case, which appears right after `dsmlp-login.ucsd.edu:` (your port may be different).
-- A token, `ce5cfea8c9a8892593868b91ddc55b21ff61220989eb17d6ee303c6604609009` in this case (your token will be different).
+- A token, `ce5cfea8c9a8892493868b91ddc55b21ff61220989eb17d6ee303c6604609009` in this case (your token will be different).
 
 Now, **open a new Terminal window on your personal computer**, without closing the old one. This step is crucial – make sure that the name at the start of your command prompt is your personal computer's name, not your username on the server. In that new Terminal window:
 
@@ -188,13 +188,13 @@ Some mentors have coordinated with the methodology staff and DSMLP to provide **
 Here's how to launch a server on DSMLP in a way that you can access this section-specific data. For the purposes of this example, we will assume you want to use the vanilla `launch-scipy-ml.sh` launch script, but these steps work with any launch script and flags. Also, note that here "team" and "section" mean the same thing; by "team" we don't mean your project's team.
 
 1. `ssh` onto DSMLP as usual. Don't run any launch scripts yet.
-2. Run `launch-scipy-ml.sh -W DSC180A_FA24_A00 -G list`. Note that this won't actually launch a server – instead, this will list all of the groups you are a part of. You should see a row that contains your capstone section number for the "Team," like `DSC 180A - A14 [88137]` in the example below. **Copy the "Team ID"** (`dsc180aa1488137100014352` in the example below).
+2. Run `launch-scipy-ml.sh -W DSC180A_FA25_A00 -G list`. Note that this won't actually launch a server – instead, this will list all of the groups you are a part of. You should see a row that contains your capstone section number for the "Team," like `DSC 180A - A14 [88137]` in the example below. **Copy the "Team ID"** (`dsc180aa1488137100014352` in the example below).
 
 <center><img src="../../assets/images/team-login-1.png" width="75%"><br><i>This example is from Fall 2022, but the principle is the same.</i></center>
 
 **Note:** If you don't see the right team information at this step, contact the instructor.
 
-3. Run `launch-scipy-ml.sh -W DSC180A_FA24_A00 -G <teamid>`, with `<teamid>` replaced with the Team ID you copied earlier. If you're in section A14 like in the example above, you'd run `launch-scipy-ml.sh -W DSC180A_FA24_A00 -G dsc180aa1488137100014352`.
+3. Run `launch-scipy-ml.sh -W DSC180A_FA25_A00 -G <teamid>`, with `<teamid>` replaced with the Team ID you copied earlier. If you're in section A14 like in the example above, you'd run `launch-scipy-ml.sh -W DSC180A_FA25_A00 -G dsc180aa1488137100014352`.
 
 4. After your server launches, run `ls`. You should see three folders – `private`, `public`, and `teams`. Your home directory is in `private` (that's where all your code should live). The `public` folder contains files that the methodology course staff may share with the entire course. 
 
