@@ -8,7 +8,7 @@ photo: https://dsc-capstone.org/2025-26/assets/staff-images/amitashnanda.jpeg
 office hours: 
 current: Ph.D. Student, Electrical and Computer Engineering (MLDS), UCSD
 education: MS ECE UCSD, B.Tech CET Bhubaneswar
-domains: 
+domains: A06, A11, B08, B16, B18, B24, B25, B26
 hometown: Rourkela, Odisha, India
 research: Continual Federated Learning, Distributed Learning, DNN/LLM Optimization, CV, Bioinformatics  
 expertise: "ML algorithms, optimization, modeling"
