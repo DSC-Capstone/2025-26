@@ -1,4 +1,3 @@
-
 ---
 name: Teresa Lee
 role: Teaching Assistant
