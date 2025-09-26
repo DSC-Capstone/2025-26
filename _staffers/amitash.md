@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: ananda@ucsd.edu
 pronouns: He/His/him
 website: https://github.com/amitashnanda/
-photo: https://dsc-capstone.org/2024-25/assets/staff-images/ananda.jpg
+photo: https://dsc-capstone.org/2025-26/assets/staff-images/amitashnanda.jpeg
 office hours: 
 current: Ph.D. Student, Electrical and Computer Engineering (MLDS), UCSD
 education: MS ECE UCSD, B.Tech CET Bhubaneswar
