@@ -9,9 +9,9 @@ office hours:
 current: Ph.D. Student, Electrical and Computer Engineering (MLDS), UCSD
 education: MS ECE UCSD, B.Tech CET Bhubaneswar
 domains: A06, A11, B08, B16, B18, B24, B25, B26
-hometown: Rourkela, Odisha, India
-research: Continual Federated Learning, Distributed Learning, DNN/LLM Optimization, CV, Bioinformatics  
+hometown: India
+research: Distributed Machine Learning, Generative-AI, Vision-AI, DNN/LLM Optimization, Software & Systems, AI/ML Systems, Bioinformatics 
 expertise: "ML algorithms, optimization, modeling"
-askabout: San Diego cricket leauge player, Acting, Poetry, Gaming, Youtube/Twitch Streaming
+askabout: San Diego cricket league player, Acting, Poetry, Gaming, Youtube/Twitch Streaming
 foodemoji: Indian, Japanese, Chinese 🍞
 ---
