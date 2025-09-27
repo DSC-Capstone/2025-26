@@ -37,6 +37,26 @@ If you'd like to meet with someone and can't make it to their office hours, feel
           <td></td>
           <td></td>
         </tr>
+            <tr>
+          <td>TA Amir Panahi</td>
+          <td></td>
+          <td></td>
+        </tr>
+            <tr>
+          <td>TA Zimo Wang</td>
+          <td></td>
+          <td></td>
+        </tr>
+            <tr>
+          <td>TA Teresa Lee</td>
+          <td></td>
+          <td></td>
+        </tr>
+            <tr>
+          <td>TA Shriniwas Kulkarni</td>
+          <td></td>
+          <td></td>
+        </tr>
       </tbody>
     </table>
 <!--
