@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: apanahi@ucsd.edu
 pronouns: He/His/him
 website: https://www.linkedin.com/in/amirhossein-p-a565221bb/
-photo: https://dsc-capstone.org/2025-26/assets/staff-images/Amirhossein_panahi.jpeg
+photo: https://dsc-capstone.org/2025-26/assets/staff-images/Amirhossein_panahi.jpg
 office hours: Mondays 9-11 AM
 current: Ph.D. Student, Data Science
 domains: A07, B03, B20, A02, B12, A01, B11
