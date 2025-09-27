@@ -16,7 +16,29 @@ nav_order: 4
 
 If you'd like to meet with someone and can't make it to their office hours, feel free to send them an email to schedule an appointment; emails can be found on the [🙋 Staff](../staff) page.
 
-
+<table aria-describedby="oh-note">
+      <caption>Office Hours</caption>
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">OH1</th>
+          <th scope="col">OH2</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Duplicate rows below as needed -->
+        <tr>
+          <td>Prof. Umesh Bellur</td>
+          <td>Mon 3.00–4:30 PM (HDSI 242)</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>TA Amitash Nanda</td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
 <!--
 <iframe src="https://calendar.google.com/calendar/embed?src=c_837a7bfe3d047e9064131d22755012eaec66613beeb3c0cf745c151e9cd67c45%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
