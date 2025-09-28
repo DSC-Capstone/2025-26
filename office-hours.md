@@ -60,6 +60,6 @@ If you'd like to meet with someone and can't make it to their office hours, feel
       </tbody>
     </table>
 
-<iframe <iframe src="https://calendar.google.com/calendar/embed?src=c_4534d2125aec2b70d09325b14e16cc02943bd7d31d113a1cc5c8a3ad0aa3d3a4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"> style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_4534d2125aec2b70d09325b14e16cc02943bd7d31d113a1cc5c8a3ad0aa3d3a4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"> style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
