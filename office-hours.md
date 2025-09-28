@@ -15,7 +15,7 @@ nav_order: 4
 **All office hours are held in-person in [HDSI](https://map.concept3d.com/?id=1005#!m/246301). Check the calendar for specific rooms, since they're all held in different rooms.**
 
 If you'd like to meet with someone and can't make it to their office hours, feel free to send them an email to schedule an appointment; emails can be found on the [🙋 Staff](../staff) page.
-
+<!--
 <table aria-describedby="oh-note">
       <caption>Office Hours</caption>
       <thead>
@@ -59,6 +59,7 @@ If you'd like to meet with someone and can't make it to their office hours, feel
         </tr>
       </tbody>
     </table>
+    -->
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_4534d2125aec2b70d09325b14e16cc02943bd7d31d113a1cc5c8a3ad0aa3d3a4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"> style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
