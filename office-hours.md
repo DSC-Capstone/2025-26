@@ -15,8 +15,8 @@ nav_order: 4
 **All office hours are held in-person in [HDSI](https://map.concept3d.com/?id=1005#!m/246301). Check the calendar for specific rooms, since they're all held in different rooms.**
 
 If you'd like to meet with someone and can't make it to their office hours, feel free to send them an email to schedule an appointment; emails can be found on the [🙋 Staff](../staff) page.
-<!--
-<table aria-describedby="oh-note">
+
+<!-- <table aria-describedby="oh-note">
       <caption>Office Hours</caption>
       <thead>
         <tr>
@@ -26,7 +26,6 @@ If you'd like to meet with someone and can't make it to their office hours, feel
         </tr>
       </thead>
       <tbody>
-        <!-- Duplicate rows below as needed -->
         <tr>
           <td>Prof. Umesh Bellur</td>
           <td>Mon 3.00–4:30 PM (HDSI 242)</td>
