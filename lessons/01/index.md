@@ -158,6 +158,43 @@ Now, **open a new Terminal window on your personal computer**, without closing t
     - Stop your Jupyter instance, by either hitting the Quit button in the top-right corner of the Jupyter home page or entering `exit` in the Terminal used to launch the container.
     - Switch to the Terminal that is open on your personal computer (the one where you ran `ssh -N -L ...`) and hit `Ctrl+C` on your keyboard (regardless of your operating system) to kill the port-forwarding process.
 
+> **⚠️ Note: If this doesn't work**
+>
+> If `http://localhost:8889` doesn't open or you see a `connection refused` error, try the following steps to troubleshoot:
+>
+> 1. **Check if port 8889 is already in use**:
+>    ```bash
+>    lsof -i :8889
+>    ```
+>    If it returns a process using the port, kill it using:
+>    ```bash
+>    kill <PID>
+>    ```
+>
+> 2. **Find the IP address of the server**:
+>    ```bash
+>    nslookup dsmlp-login.ucsd.edu
+>    ```
+>    Look for an IP address like `128.54.65.160`.
+>
+> 3. **SSH using the IP address instead of the hostname**:
+>    ```bash
+>    ssh <username>@128.54.65.160
+>    ```
+>
+> 4. **Then do port forwarding using the IP**:
+>    ```bash
+>    ssh -N -L 8889:128.54.65.160:<port> <user>@128.54.65.160
+>    ```
+>
+> 5. **Open this URL on your local browser**:
+>    ```
+>    http://localhost:8889/user/<username>/tree/
+>    ```
+>
+> Replace `<port>` and `<username>` with the actual port and your DSMLP username. You should now be able to access your Jupyter Notebook.
+> **Reason** This issue could happen because the Jupyter server may be running on a compute node or internal network, and forwarding through `dsmlp-login.ucsd.edu` which is the login node doesn't always route traffic correctly. Using the server's IP address that you get from the login node ensures your connection reaches the right machine and port.
+
 **Option 2: Using the Campus VPN**
 
 If you choose to go this route, follow the instructions [here](https://blink.ucsd.edu/technology/network/connections/off-campus/VPN/). Note that there are two versions of the UCSD VPN – one that works just in the web browser and one that works for your entire OS. Use the latter, since you'll be working in the Terminal. (If you have an Apple Silicon Mac, you can follow the Mac instructions listed there, even though they say they're for Intel Macs only.)
