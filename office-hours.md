@@ -59,8 +59,7 @@ If you'd like to meet with someone and can't make it to their office hours, feel
         </tr>
       </tbody>
     </table>
-<!--
-<iframe src="https://calendar.google.com/calendar/embed?src=c_837a7bfe3d047e9064131d22755012eaec66613beeb3c0cf745c151e9cd67c45%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
--->
+
+<iframe <iframe src="https://calendar.google.com/calendar/embed?src=c_4534d2125aec2b70d09325b14e16cc02943bd7d31d113a1cc5c8a3ad0aa3d3a4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"> style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
