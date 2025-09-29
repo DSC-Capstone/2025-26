@@ -20,7 +20,7 @@ This site is under construction! -->
 
 
 ### Fall 2025 Schedule
-<!--
+
 <table>
     <colgroup>
         <col style="width: 2%" />
@@ -40,7 +40,7 @@ This site is under construction! -->
     <tbody> 
         <tr>
             <td>1</td>
-            <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/pub?start=false&loop=false&delayms=5000">Introduction</a><br><br><a href="https://drive.google.com/file/d/1X1LGIn80L7E0EEJ4NomfrUyIU3kSdlhD/view?usp=sharing">Recording</a><br><br>Read the <a href="https://dsc-capstone.org/2024-25/syllabus"> Syllabus</a> </td>
+            <td>Live on Monday, Sept 29: <a href="https://docs.google.com/presentation/d/1nYAwjFYJg07E3mmxIuebU8a2R3vsKRp9cF8KOavrLTo/edit?usp=sharing">Introduction</a><br>Read the <a href="https://dsc-capstone.org/2025-26/syllabus"> Syllabus</a> </td>
             <td></td>
             <td></td>
             <td></td>
@@ -48,11 +48,11 @@ This site is under construction! -->
         <tr>
             <td>1</td>
             <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
-            <td><a href="assignments/methodology/01">MA 1 (due Oct. 7)</a><br><a href="https://forms.gle/nYiFEs3pYkpguZHU8">Welcome Survey (due Oct. 7)</a></td>
+            <td><a href="assignments/methodology/01">MA 1 (due Oct. 7)</a><br><a href="https://forms.gle/BdSANpB6bYtvrz47A">Welcome Survey (due Oct. 6)</a></td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <!--<tr>
             <td>2</td>
             <td><a href="lessons/02">Servers II: GPUs and Background Tasks</a></td>
             <td></td>
@@ -105,9 +105,9 @@ This site is under construction! -->
             <td></td>
             <td><b><p style="color: red">Submit your Q1 project as well as the Q2 project proposal (By 11.59pm, Wednesday, Dec 4th)</p></b></td>
         </tr>
+        -->
     </tbody>
 </table>
--->
 
 ### Winter 2026 Schedule
 <!--
