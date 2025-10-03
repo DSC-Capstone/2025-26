@@ -48,7 +48,7 @@ Learn how to work with AWS cloud services by creating S3 buckets for storage and
 
 4.  Click "Click here to access AWS" and it should take you to your AWS dashboard
 
-![](./media/image2.png){width="6.5in" height="2.736111111111111in"}
+![](./media/image2.png)
 
 ### Part 2: Launch S3 Bucket
 
@@ -70,7 +70,7 @@ Follow the steps below on how to launch an S3 bucket:
 
 Once finished creating the bucket, it should look like the following below. You can now store your data in the bucket.
 
-![](./media/image1.png){width="6.5in" height="2.1645833333333333in"}
+![](./media/image1.png)
 
 ### Part 3: Test and Apply
 
@@ -92,7 +92,7 @@ Once finished creating the bucket, it should look like the following below. You 
 
 6.  Open this file in your S3 bucket (it should pop up onto a new tab) and you can see the contents
 
-![](./media/image5.png){width="6.5in" height="1.2798611111111111in"}
+![](./media/image5.png)
 
 ### Part 4: Clean Up
 
@@ -102,7 +102,7 @@ Once finished creating the bucket, it should look like the following below. You 
 
 After deleting your bucket, you can see a confirmation message as below:
 
-![](./media/image7.png){width="6.5in" height="1.7993055555555555in"}
+![](./media/image7.png)
 
 It is good practice to delete AWS resources because cloud resources cost money even when not being used. Professional developers always clean up test environments. And it prevents account clutter and naming conflicts for future projects.
 
@@ -120,14 +120,14 @@ It is good practice to delete AWS resources because cloud resources cost money e
 
 4.  Click "Click here to access AWS" and it should take you to your AWS dashboard
 
-![](./media/image2.png){width="6.5in" height="2.736111111111111in"}
+![](./media/image2.png)
 
 ### Part 2: Launch EC2 Instance
 
 1.  On the AWS EC2 main page, click the orange "Launch Instance"
 
-![](./media/image3.png){width="6.5in" height="2.736111111111111in"}
-
+![](./media/image3.png)
+    
 2.  Set the following:
 
     **Name**: hello-website
@@ -136,7 +136,7 @@ It is good practice to delete AWS resources because cloud resources cost money e
     
     **Instance type**: t2.micro
 
-![](./media/image4.png){width="6.5in" height="6.291666666666667in"}
+![](./media/image4.png)
 
 3.  Choose or create a key pair and download the .pem file
 
@@ -144,11 +144,11 @@ It is good practice to delete AWS resources because cloud resources cost money e
 
     After, select "Allow SSH traffic from" and choose "My IP" from the dropdown. And select "Allow HTTP traffic from the internet".
 
-![](./media/image9.png){width="6.5in" height="3.6527777777777777in"}
+![](./media/image9.png)
 
 5.  Finally, click "Launch instance" in orange. Then go to your instance dashboard, you will see your instance up and running. The Public IPv4 address is highlighted in yellow below.
 
-![](./media/image8.png){width="6.5in" height="2.263888888888889in"}
+![](./media/image8.png)
 
 ### Part 3: Connect via SSH
 
@@ -199,7 +199,7 @@ It is good practice to delete AWS resources because cloud resources cost money e
 
 2.  You should see your custom "Hello World" web page deployed by your EC2 instance!
 
-![](./media/image6.png){width="6.5in" height="1.1595614610673666in"}
+![](./media/image6.png)
 
 ### Part 5: Terminating Instance
 
