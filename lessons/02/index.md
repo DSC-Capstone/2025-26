@@ -11,7 +11,7 @@ nav_exclude: true
 # Lesson 2 – Servers II: GPUs and Background Tasks
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. This lesson contains two embedded videos; be sure to watch them. Post questions about the lesson [here](https://piazza.com/class/m0vk9il4ypf1ei/).
+All lectures will be delivered as readings that you complete on your own time. This lesson contains two embedded videos; be sure to watch them. Post questions about the lesson on Piazza (https://piazza.com/class/me8tu4l8zrinx/).
 
 **There is no Methodology Assignment associated with this lesson.**
 
@@ -75,7 +75,7 @@ You can download the notebook used in the video [here](assets/gpu-example.ipynb)
 
 ### Beyond DSMLP
 
-If your mentor believes that even DSMLP's resources won't be sufficient for your domain's work, it's possible to gain access to AWS through UCSD. Have your mentor reach out to me if this is the case for your domain.
+If your mentor believes that even DSMLP's resources won't be sufficient for your domain's work, it's possible to gain access to AWS through UCSD. Have your mentor reach out to me if this is the case for your domain. Recall we have set you up with AWS Educate accounts. You will need to add credits to this in order to use it. 
 
 ### VSCode and DSMLP
 
