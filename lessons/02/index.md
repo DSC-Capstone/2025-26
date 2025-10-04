@@ -33,11 +33,11 @@ In [Lesson 1](../01), you learned how to launch servers on DSMLP. More specifica
 1. Log onto the DSMLP jumpbox server.
 1. Choose a launch script, e.g. `launch.sh`, `launch-scipy-ml.sh`, or `launch-scipy-ml-gpu.sh`.
 1. Use flags to customize the launched container.
-  - You'll always use `-W DSC180A_FA24_A00` to tell DSMLP that you're a student in DSC 180A and want to see any DSC 180A-specific data.
+  - You'll always use `-W DSC180A_FA25_A00` to tell DSMLP that you're a student in DSC 180A and want to see any DSC 180A-specific data.
   - `-c` and `-m` stand for CPU and RAM, respectively. `-c 8 -m 32` will ask for 8 CPU cores and 32 GB of RAM. (The default for `launch-scipy-ml.sh` is 2 CPU cores and 8 GB of RAM.)
   - `-G list` will show you all teams you're a part of (e.g. A01).
   - `-h` will show you all possible flags.
-1. Stitch together the name of the launch script and all desired flags in one line, e.g. `launch-scipy-ml.sh -W DSC180A_FA24_A00 -c 8 -m 32`.
+1. Stitch together the name of the launch script and all desired flags in one line, e.g. `launch-scipy-ml.sh -W DSC180A_FA25_A00 -c 8 -m 32`.
 
 [This page](https://support.ucsd.edu/services?id=kb_article_view&sys_kb_id=899d64931b6c991048e9cae5604bcb6e) of the DSMLP documentation describes several key flags in more detail.
 
@@ -120,19 +120,19 @@ The reason this context is relevant is because we need to interact with the unde
 - `kubectl`, which stands for "Kubernetes control", allows us to list and delete pods associated with the current user. (Not sure how it's pronounced? [Neither are the enthusiasts.](https://www.youtube.com/watch?v=2wgAIvXpJqU))
 - `kubesh`, which stands for "Kubernetes shell", allows us to connect to the shell (command-line) in a specified pod. 
 
-**To launch a background pod – that is, a pod in which we will initiate a long-running job – we use the `-b` flag when running a launch script.** For instance, we may run `launch-scipy-ml.sh -W DSC180A_FA24_A00 -g 1 -c 4 -b` to create a background-enabled pod with 1 GPU and 4 CPU cores. When using the `-b` flag, notice that we are **not** put into the pod that we requested – instead, the pod is simply created.
+**To launch a background pod – that is, a pod in which we will initiate a long-running job – we use the `-b` flag when running a launch script.** For instance, we may run `launch-scipy-ml.sh -W DSC180A_FA25_A00 -g 1 -c 4 -b` to create a background-enabled pod with 1 GPU and 4 CPU cores. When using the `-b` flag, notice that we are **not** put into the pod that we requested – instead, the pod is simply created.
 
 <center><img src="assets/background.png" width="80%"></center>
 
 <center><i>Note that the hostname is still <code>[srampure@dsmlp-login]</code>!</i></center>
 
-The resulting output contains the pod ID – `srampure-27068` in this case – which we'll need to remember in order to interact with the pod. In order to actually enter the pod, we can run `kubesh <pod-id>`, e.g. `kubesh srampure-27068`.
+The resulting output contains the pod ID – `ubellur-27068` in this case – which we'll need to remember in order to interact with the pod. In order to actually enter the pod, we can run `kubesh <pod-id>`, e.g. `kubesh ubellur-27068`.
 
 Once we enter the pod, everything will appear as though we just ran our launch script without the `-b` flag. However, there's a difference – when we exit our pod (by either typing `exit` or hitting `CONTROL+D`), any processes we initiated will keep running!
 
 ### 🎥 Running Jobs on Background Pods
 
-For a walkthrough on how to initiate long-running jobs, watch the following [🎥 video](https://youtu.be/2PlR8duAxP0). (It was recorded last year, when the order of methodology content was slightly different – ignore the point about Docker images, and make sure to use `-W DSC180A_FA24_A00`, even though we didn't in the video.)
+For a walkthrough on how to initiate long-running jobs, watch the following [🎥 video](https://youtu.be/2PlR8duAxP0). (It was recorded last year, when the order of methodology content was slightly different – ignore the point about Docker images, and make sure to use `-W DSC180A_FA25_A00`, even though we didn't in the video.)
 
 <center>
 <iframe width="888" height="500" src="https://www.youtube.com/embed/2PlR8duAxP0?si=g9hw3qr4NEgnKUh6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
