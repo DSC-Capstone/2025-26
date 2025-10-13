@@ -5,7 +5,7 @@ description: Guidelines for the Quarter 1 Week 4 TA Check-In.
 nav_exclude: true
 ---
 
-# Quarter 1 Week 4 TA Check-In
+# Quarter 1 Week 5 TA Check-In
 {:.no_toc}
 
 In Week 5 – that is, between Monday, October 27th and Friday, October 31st – you are **required** to meet with your assigned TA **in-person** for 20 minutes. You can see your assigned TA on the [**Staff**](https://dsc-capstone.org/2025-26/staff) pages.
