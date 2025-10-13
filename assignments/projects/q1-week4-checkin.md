@@ -15,7 +15,7 @@ The purpose of the check-in is to ensure that all students in the capstone have 
 - Do you have a clear idea of the kinds of problems you're going to work on?
   - For example, if your domain is about natural language processing, can you give description of your problem space that's more detailed than "we're learning about NLP?" Can you mention specific techniques?
 - Do you feel confused or off-track? Have you been given sufficient direction from your mentor?
-- Do you have an idea of what your [Quarter 1 Project](../q1) will be about?
+- Do you have an idea of what your [Quarter 1 Project](https://dsc-capstone.org/2025-26/assignments/projects/q1) will be about?
 - Have you started to write code? Where is it stored, and how is it organized?
 - Do you have the data you need for your Quarter 1 Project, or are you in the process of acquiring it? Do you foresee any roadblocks in your Quarter 1 Project work?
 - Has your mentor already placed you into groups? How do they plan on doing so? Are you doing your Quarter 1 Project work individually or in groups?
