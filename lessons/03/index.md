@@ -16,7 +16,7 @@ All lectures will be delivered as readings that you complete on your own time. P
 There is no Methodology Assignment associated with this lesson, but you'll need to follow the principles outlined here when writing the code for your Quarter 1 and Quarter 2 Projects, as **you'll need to be able to justify how your code is structured in order to receive full credit for their code components**.
 
 {: .red }
-**Remember, the [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2024-25/assignments/projects/q1) is due on Monday, November 4th. As part of your checkpoint, you'll need to submit the code you've written so far.**
+**Remember, the [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2025-26/assignments/projects/q1) is due on Monday, November 3rd. As part of your checkpoint, you'll need to submit the code you've written so far.**
 
 ---
 
