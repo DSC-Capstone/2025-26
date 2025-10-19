@@ -13,10 +13,10 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza.
 
-Make sure to read this article before moving on to [Methodology Assignment 2](https://dsc-capstone.org/2024-25/assignments/methodology/02), which is due on Tuesday, October 31st. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](https://dsc-capstone.org/2024-25/assignments/projects/q1).
+Make sure to read this article before moving on to [Methodology Assignment 2](https://dsc-capstone.org/2025-26/assignments/methodology/02), which is due on Monday, October 27th. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](https://dsc-capstone.org/2025-26/assignments/projects/q1).
 
 {: .red }
-**Remember, the [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2024-25/assignments/projects/q1) is due on Monday, November 4th. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project. These components are discussed in more detail below.**
+**Remember, the [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2025-26/assignments/projects/q1) is due on Monday, November 3rd. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project. These components are discussed in more detail below.**
 
 ---
 
@@ -60,7 +60,7 @@ Watch the [video](https://youtu.be/5O1MVncfbf4) below, prepared by HDSI and Bioe
 
 </center>
 
-After watching the video, complete [Methodology Assignment 2](https://dsc-capstone.org/2024-25/assignments/methodology/02), which will ask you to reflect on what you've learned.
+After watching the video, complete [Methodology Assignment 2](https://dsc-capstone.org/2025-26/assignments/methodology/02), which will ask you to reflect on what you've learned.
 
 The rest of this article discusses how to structure papers specifically, though the ideas discussed in the video are still relevant, as they will be when it comes time to present your Quarter 2 Project to a live audience at the capstone showcase this upcoming March.
 
@@ -164,7 +164,7 @@ Watch [the video](https://www.youtube.com/watch?v=X9gbQ7pme1E) below, prepared b
 <center><iframe width="888" height="500" src="https://www.youtube.com/embed/X9gbQ7pme1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 {: .red }
-**Remember, your [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2024-25/assignments/projects/q1) submission will consist of both a report submission and code submission. Your report submission for the checkpoint should contain a working title, abstract, and introduction section. Watch the video above to help prepare!**
+**Remember, your [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2025-26/assignments/projects/q1) submission will consist of both a report submission and code submission. Your report submission for the checkpoint should contain a working title, abstract, and introduction section. Watch the video above to help prepare!**
 
 ### Methods
 
