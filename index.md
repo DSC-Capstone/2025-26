@@ -66,16 +66,16 @@ This site is under construction! -->
             <td></td>
             <td></td>
         </tr>
-        <!--  <tr>
+        <tr>
             <td>4</td>
             <td><a href="lessons/04">Effective Communication and Scientific Writing</a><br><small>featuring Prof. Benjamin Smarr</small></td>
             <td><a href="assignments/methodology/02">MA 2 (due Oct. 27th)</a></td>
-            <td><a href="assignments/projects/q1-week4-checkin">Week 4 TA Check-In (complete by Oct. 25th)</a></td>
         </tr>
-        <tr>
+        <!--<tr>
             <td>5</td>
             <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
             <td><a href="assignments/methodology/03">MA 3 (due Nov. 3rd)</a></td>
+            <td><a href="assignments/projects/q1-week4-checkin">Week 5 TA Check-In (complete by Oct. 31st)</a></td>
             <td><a href="assignments/projects/q1"> Q1 Project Intermediate Submission(complete by Nov 4th)</a></td>
         </tr>
         <tr>
