@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Lesson 6 – Git"
+title: "Git"
 nav_exclude: true
 ---
 
-# Lesson 6 – Git
+# Git
 {:.no_toc}
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza as usual.
 
-Make sure to read this article before moving on to [Methodology Assignment 3](https://dsc-capstone.org/2025-26/assignments/methodology/04), which is due on Monday, Nov 3rd, 2025.
+Make sure to read this article before moving on to [Methodology Assignment 3](https://dsc-capstone.org/2025-26/assignments/methodology/04), which is **due on Monday, Nov 3rd, 2025.**
 
 ---
 
