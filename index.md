@@ -77,14 +77,14 @@ This site is under construction! -->
             <td><a href="assignments/methodology/03">MA 3 (due Nov. 3rd)</a></td>
             <td><a href="assignments/projects/q1-week4-checkin">Week 5 TA Check-In (complete by Oct. 31st)</a></td>
             <td><a href="assignments/projects/q1"> Q1 Project Intermediate Submission(complete by Nov 4th)</a></td>
-        </tr>
+        </tr> -->
         <tr>
-            <td>6</td>
+            <td>5</td>
             <td><a href="lessons/06">Git</a></td>
-            <td><a href="assignments/methodology/04">MA 4 (due Nov. 11th)</a></td>
+            <td><a href="assignments/methodology/04">MA 3 (due Nov. 3rd)</a></td>
             <td></td>
         </tr>
-        <tr>
+        <!--<tr>
             <td>7</td>
             <td colspan=2><a href="assignments/methodology/05">LaTeX, Markdown, and GitHub Pages (MA 5 due Nov. 17th)</a></td>
             <td></td>
