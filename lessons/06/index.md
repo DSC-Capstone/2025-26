@@ -9,7 +9,7 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza as usual.
 
-Make sure to read this article before moving on to [Methodology Assignment 4](https://dsc-capstone.org/2024-25/assignments/methodology/04), which is due on Monday, Nov 11th, 2024.
+Make sure to read this article before moving on to [Methodology Assignment 3](https://dsc-capstone.org/2025-26/assignments/methodology/04), which is due on Monday, Nov 3rd, 2025.
 
 ---
 
@@ -123,7 +123,7 @@ While this workflow is useful when working alone – say, when you need to have 
 - You make changes to files A and B without repulling.
 - You try to push your changes to files A and B, but your push is rejected, because Git doesn't know how to combine your changes with your teammate's changes.
 
-This is known as a **merge conflict**, and you've likely run into one before. In fact, [Methodology Assignment 4](https://dsc-capstone.org/2024-25/assignments/methodology/04) will have you solve a more complicated merge conflict with a partner! When working on larger projects, this single-branch workflow gets messy quickly, and there's a better solution – using multiple branches.
+This is known as a **merge conflict**, and you've likely run into one before. In fact, [Methodology Assignment 3](https://dsc-capstone.org/2025-26/assignments/methodology/04) will have you solve a more complicated merge conflict with a partner! When working on larger projects, this single-branch workflow gets messy quickly, and there's a better solution – using multiple branches.
 
 ### Multiple-Branch Workflows
 
@@ -190,7 +190,7 @@ In the example above, there are two versions of the header – one above the `==
 <h1 class="header">Merge Demo</h1>
 ```
 
-Once you decide which version to keep, you can commit your changes. You'll get practice with this in [Methodology Assignment 4](https://dsc-capstone.org/2024-25/assignments/methodology/04).
+Once you decide which version to keep, you can commit your changes. You'll get practice with this in [Methodology Assignment 3](https://dsc-capstone.org/2025-26/assignments/methodology/04).
 
 ### Version Control and Notebooks
 
