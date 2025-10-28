@@ -10,7 +10,7 @@ nav_exclude: true
 
 As you know, your main deliverable throughout the capstone sequence is your Quarter 2 Project. In order to ensure that you'll be able to successfully execute your project, you're required to submit a detailed proposal.
 
-The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **The proposal is due during the last week of classes (date TBA).**
+The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **The proposal is due during the last week of classes (Friday, Dec 5th).**
 
 ### Groups
 {:.no_toc}
