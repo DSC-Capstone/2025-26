@@ -40,7 +40,7 @@ This site is under construction! -->
     <tbody> 
         <tr>
             <td>1</td>
-            <td>Live on Monday, Sept 29: <a href="https://docs.google.com/presentation/d/1nYAwjFYJg07E3mmxIuebU8a2R3vsKRp9cF8KOavrLTo/edit?usp=sharing">Introduction</a><br>Read the <a href="https://dsc-capstone.org/2025-26/syllabus"> Syllabus</a> </td>
+            <td>Live on Monday, Sept 29: <a href="https://docs.google.com/presentation/d/1nYAwjFYJg07E3mmxIuebU8a2R3vsKRp9cF8KOavrLTo/edit?usp=sharing">Introduction</a><br>Read the <a href="https://dsc-capstone.org/2025-26/syllabus"> Syllabus</a> <br><a href="lessons/01a">AWS Fundamentals: S3 and EC2</a></td>
             <td></td>
             <td></td>
             <td></td>
@@ -48,7 +48,6 @@ This site is under construction! -->
         <tr>
             <td>1</td>
             <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
-            <td><a href="lessons/01a">AWS Fundamentals: S3 and EC2</a></td>
             <td><a href="assignments/methodology/01">MA 1 (due Oct. 6th)</a><br><a href="https://forms.gle/BdSANpB6bYtvrz47A">Welcome Survey (due Oct. 6)</a></td>
             <td></td>
             <td></td>
