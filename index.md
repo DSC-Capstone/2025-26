@@ -84,12 +84,13 @@ This site is under construction! -->
             <td><a href="assignments/methodology/04">MA 3 (due Nov. 3rd)</a></td>
             <td></td>
         </tr>
-        <!--<tr>
-            <td>7</td>
-            <td colspan=2><a href="assignments/methodology/05">LaTeX, Markdown, and GitHub Pages (MA 5 due Nov. 17th)</a></td>
+        <tr>
+            <td>6</td>
+            <td colspan=2><a href="assignments/methodology/05">LaTeX, Markdown, and GitHub Pages (MA 4 due Nov. 10th)</a></td>
+            <td> The Q1 Project report checkpoint is due on Friday, Nov 7th</td>
             <td></td>
         </tr>
-        <tr>
+        <!--<tr>
             <td>8</td>
             <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Nov 24th)</a></td>
             <td><a href="assignments/projects/q1-week-9-10-checkin">Week 8 TA Check-In</a></td>
