@@ -89,6 +89,12 @@ This site is under construction! -->
             <td> The Q1 Project report checkpoint is due on Friday, Nov 7th</td>
             <td></td>
         </tr>
+        <tr>
+        <td>6</td>
+        <td> <a href="https://dsc-capstone.org/2025-26/lessons/07/">Topics on Entrepreneurship</a></td>
+        <td></td>
+        <td></td>
+        </tr>
         <!--<tr>
             <td>8</td>
             <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Nov 24th)</a></td>
