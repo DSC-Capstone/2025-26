@@ -70,13 +70,6 @@ This site is under construction! -->
             <td><a href="lessons/04">Effective Communication and Scientific Writing</a><br><small>featuring Prof. Benjamin Smarr</small></td>
             <td><a href="assignments/methodology/02">MA 2 (due Oct. 27th)</a></td>
         </tr>
-        <!--<tr>
-            <td>5</td>
-            <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
-            <td><a href="assignments/methodology/03">MA 3 (due Nov. 3rd)</a></td>
-            <td><a href="assignments/projects/q1-week4-checkin">Week 5 TA Check-In (complete by Oct. 31st)</a></td>
-            <td><a href="assignments/projects/q1"> Q1 Project Intermediate Submission(complete by Nov 4th)</a></td>
-        </tr> -->
         <tr>
             <td>5</td>
             <td><a href="lessons/06">Git</a></td>
@@ -90,20 +83,25 @@ This site is under construction! -->
             <td></td>
         </tr>
         <tr>
-        <td>6</td>
-        <td> <a href="https://dsc-capstone.org/2025-26/lessons/07/">Topics on Entrepreneurship</a></td>
-        <td></td>
-        <td></td>
+            <td>6</td>
+            <td> <a href="https://dsc-capstone.org/2025-26/lessons/07/">Topics on Entrepreneurship</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td colspan=2><a href="assignments/methodology/05">Environments and Containerization (MA 5 due Nov 17th)</a></td>
+            <td></td>
         </tr>
         <!--<tr>
             <td>8</td>
-            <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Nov 24th)</a></td>
-            <td><a href="assignments/projects/q1-week-9-10-checkin">Week 8 TA Check-In</a></td>
-        </tr>
-        <tr>
+            <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
+            <td><a href="assignments/methodology/03">MA 6 (due Nov. 24th)</a></td>
+        </tr> -->
+        <!--<tr>
             <td>9</td>
             <td><a href="lessons/09">Project Management</a></td>
-            <td></td>
+            <td><td><a href="assignments/projects/q1-week-9-10-checkin">Week 8/9 TA Check-In</a></td></td>
             <td>Work on your Q1 project and Q2 project proposal (Due by Dec 2nd)</td>
         </tr>
         <tr>
