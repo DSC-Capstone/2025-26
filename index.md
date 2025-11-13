@@ -93,11 +93,12 @@ This site is under construction! -->
             <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 5 due Nov 17th)</a></td>
             <td></td>
         </tr>
-        <!--<tr>
+        <tr>
             <td>8</td>
             <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
             <td><a href="assignments/methodology/03">MA 6 (due Nov. 24th)</a></td>
-        </tr> -->
+            <td></td>
+        </tr>
         <!--<tr>
             <td>9</td>
             <td><a href="lessons/09">Project Management</a></td>
