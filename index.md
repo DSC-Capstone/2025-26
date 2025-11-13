@@ -99,23 +99,23 @@ This site is under construction! -->
             <td><a href="assignments/methodology/03">MA 6 (due Nov. 24th)</a></td>
             <td>Remember to sign up for and attend the final TA Checkin</td>
         </tr>
-        <!--<tr>
+        <tr>
             <td>9</td>
             <td><a href="lessons/09">Project Management</a></td>
+            <td></td>
             <td><td><a href="assignments/projects/q1-week-9-10-checkin">Week 8/9 TA Check-In</a></td></td>
-            <td>Work on your Q1 project and Q2 project proposal (Due by Dec 2nd)</td>
+            <td>Work on your Q1 project and Q2 project proposal (Due by Dec 5th)</td>
         </tr>
         <tr>
             <td>10</td>
             <td>No lesson.</td>
             <td></td>
-            <td><b><p style="color: red">Submit your Q1 project as well as the Q2 project proposal (By 11.59pm, Wednesday, Dec 4th)</p></b></td>
+            <td><b><p style="color: red">Submit your Q1 project as well as the Q2 project proposal (By 11.59pm, Friday, Dec 5th)</p></b></td>
         </tr>
-        -->
     </tbody>
 </table>
 
-### Winter 2026 Schedule
+### Winter 2026 Schedule - Coming in January 2026
 <!--
 <table>
     <colgroup>
