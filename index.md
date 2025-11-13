@@ -108,7 +108,7 @@ This site is under construction! -->
         <tr>
             <td>10</td>
             <td>No lesson.</td>
-            <td colspan=2><b><p style="color: red">Submit your Q1 project as well as the Q2 project proposal (By 11.59pm, Friday, Dec 5th)</p></b></td>
+            <td colspan=3><b><p style="color: red">Submit your Q1 project as well as the Q2 project proposal (By 11.59pm, Friday, Dec 5th)</p></b></td>
         </tr>
     </tbody>
 </table>
