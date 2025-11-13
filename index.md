@@ -102,13 +102,13 @@ This site is under construction! -->
         <tr>
             <td>9</td>
             <td><a href="lessons/09">Project Management</a></td>
-            <td><td><a href="assignments/projects/q1-week-9-10-checkin">Week 8/9 TA Check-In</a></td></td>
+            <td><a href="assignments/projects/q1-week-9-10-checkin">Week 8/9 TA Check-In</a></td>
             <td>Work on your Q1 project and Q2 project proposal (Due by Dec 5th)</td>
         </tr>
         <tr>
             <td>10</td>
             <td>No lesson.</td>
-            <td><b><p style="color: red">Submit your Q1 project as well as the Q2 project proposal (By 11.59pm, Friday, Dec 5th)</p></b></td>
+            <td colspan=2><b><p style="color: red">Submit your Q1 project as well as the Q2 project proposal (By 11.59pm, Friday, Dec 5th)</p></b></td>
         </tr>
     </tbody>
 </table>
