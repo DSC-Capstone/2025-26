@@ -98,6 +98,7 @@ This site is under construction! -->
             <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
             <td><a href="assignments/methodology/03">MA 6 (due Nov. 24th)</a></td>
             <td></td>
+            <td>Remember to sign up for and attend the final TA Checkin</td>
         </tr>
         <!--<tr>
             <td>9</td>
