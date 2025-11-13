@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "Lesson 9 – Project Management"
+title: "Project Management"
 nav_exclude: true
 ---
 
-# Lesson 9 – Project Management
+# Project Management
 {:.no_toc}
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza.
 
 {: .red }
-**While this lesson doesn't have an associated Methodology Assignment, you should read it before you finalize the [Schedule component of your Quarter 2 Project Proposal](https://dsc-capstone.org/2024-25/assignments/projects/q2-proposal#schedule-graded-by-your-mentor), due on Monday, December 2nd.<br><br>Also, please fill out both the official [Student Evaluations of Teaching](https://academicaffairs.ucsd.edu/Modules/Evals/) (by Saturday 11/30). Thank you for your feedback!** 
+**While this lesson doesn't have an associated Methodology Assignment, you should read it before you finalize the [Schedule component of your Quarter 2 Project Proposal](https://dsc-capstone.org/2025-26/assignments/projects/q2-proposal#schedule-graded-by-your-mentor), due on Friday, December 5th.<br><br>Also, please fill out both the official [Student Evaluations of Teaching](https://academicaffairs.ucsd.edu/Modules/Evals/). Thank you for your feedback!** 
 
 ---
 
@@ -82,12 +82,12 @@ The following video does a good job of providing intuition for the difference be
 
 As mentioned earlier, you're encouraged to follow the principles of Agile development when working on your projects this quarter. Waterfall development will **not** work – there is simply no time for you to sit idle for weeks while your partners work. All group members need to be active each week.
 
-When creating the [**schedule for your Quarter 2 Project Proposal**](https://dsc-capstone.org/2024-25/assignments/projects/q2-proposal#schedule-graded-by-your-mentor), you should create a list of tasks that each group member will do each week. Write your schedule in such a way that:
+When creating the [**schedule for your Quarter 2 Project Proposal**](https://dsc-capstone.org/2025-26/assignments/projects/q2-proposal#schedule-graded-by-your-mentor), you should create a list of tasks that each group member will do each week. Write your schedule in such a way that:
 
 - **Each group member can work in parallel.** That is, Person B should not have to wait for Person A to finish a task before they can start working. If Person B is working on a feature that depends on Person A's output, Person B can use synthetically-created data (or something similar) as a placeholder for Person A's output until it is finalized. (For a concrete example, Person A may be writing scripts that clean raw data, and Person B may be building a machine learning model.)
 - **Each group member is working on a different task than in the previous week.** It's totally fine if a particular task takes two weeks to complete, but the description of that task in your schedule should be different for both weeks, to reflect the breakdown of that task into smaller subtasks.
 - **Each group member knows what everyone else is actively working on.** Not only will this held each group member accountable, but it'll also give other group members the opportunity to help resolve issues with tasks that weren't initially assigned to them.
-- **The team, as a unit, produces code that is fully buildable and runnable.** All group members should regularly merge their code into the `main` branch of the repo, which will ensure that the `main` branch always contains a "complete" project.  It **should not** be the case that your group's codebase only runs in Week 7.  (Using the example from the embedded video above: your repo should always contain a fully-constructed house. The number of rooms and hallways of that house can change as the weeks go on, but it should always be a complete house.). **Note what we said in [Lesson 6 (Git) regarding version control in DSC 180B](https://dsc-capstone.org/2-24-25/lessons/06/#version-control-next-quarter-in-dsc-180b).**
+- **The team, as a unit, produces code that is fully buildable and runnable.** All group members should regularly merge their code into the `main` branch of the repo, which will ensure that the `main` branch always contains a "complete" project.  It **should not** be the case that your group's codebase only runs in Week 7.  (Using the example from the embedded video above: your repo should always contain a fully-constructed house. The number of rooms and hallways of that house can change as the weeks go on, but it should always be a complete house.). **Note what we said in [Lesson 6 (Git) regarding version control in DSC 180B](https://dsc-capstone.org/2025-26/lessons/06/#version-control-next-quarter-in-dsc-180b).**
 - **The team, as a unit, decides what the plan for the next week is, and if any part of the existing schedule needs to change.**
 
 To achieve all of these goals, it will be necessary to be in regular communication with your group, not just in section, but in your (required) separate weekly meetings and asynchronously.
