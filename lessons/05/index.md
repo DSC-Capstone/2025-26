@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lesson 5 – Ethics and Values"
+title: "Ethics and Values"
 nav_exclude: true
 ---
 
@@ -8,17 +8,13 @@ nav_exclude: true
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-# Lesson 5 – Ethics and Values
+# Ethics and Values
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza.
-
-Make sure to read this article before moving on to [Methodology Assignment 3](https://dsc-capstone.org/2024-25/assignments/methodology/03), which is due on Sunday, November 3rd.
+Make sure to read this article before moving on to [Methodology Assignment 6](https://dsc-capstone.org/2025-26/assignments/methodology/03), which is due on Sunday, November 24th.
 
 {: .green }
-**This lesson was prepared by [Professor David Danks](https://www.daviddanks.org), who is jointly appointed in Data Science and Philosophy. All project groups will be required to check in with Professor Danks in Quarter 2 to reflect on how the concepts and ideas below apply to their projects.**
-
-As a reminder, the [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2024-25/assignments/projects/q1) is due on **Monday, November 4th**.
+**This lesson was prepared by [Professor David Danks](https://www.daviddanks.org), who is jointly appointed in Data Science and Philosophy. All project groups will be required to follow up on this lesson during Quarter 2 to reflect on how the concepts and ideas below apply to their projects.**
 
 ---
 
