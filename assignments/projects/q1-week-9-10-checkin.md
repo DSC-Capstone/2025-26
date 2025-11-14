@@ -18,4 +18,4 @@ There are a few goals for the second check-in of the quarter:
 You will check-in with your project group for between 15-30 minutes. This means that you'll need to already have your project group chosen before you sign up for a check-in. **Under no circumstance should there be students from different project groups in the same block!** If you can't make any of your TA's slots, send an email to both them and me explaining your circumstances.
 
 {: .green }
-**To sign up for a check-in, go to [this sheet](). Make sure to sign up for a check-in with the correct TA! All in-person check-ins are held in the HDSI building; your TA will inform you of the specific room.**
+**To sign up for a check-in, go to [this sheet](https://docs.google.com/spreadsheets/d/15BI3EcqytOGfI_VTR7U3OemHReYwCcUr8XAJvumjaMQ/edit?usp=sharing). Make sure to sign up for a check-in with the correct TA! All in-person check-ins are held in the HDSI building; your TA will inform you of the specific room.**
