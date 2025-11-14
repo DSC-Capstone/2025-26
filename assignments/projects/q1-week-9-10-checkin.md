@@ -5,7 +5,7 @@ description: Guidelines for the Quarter 1 Week 8/9 TA Check-In.
 nav_exclude: true
 ---
 
-# Quarter 1 Week 8 TA Check-In
+# Quarter 1 Week 8/9 TA Check-In
 {:.no_toc}
 
 In Week 8 and 9 – specifically, between November 20th and November 26th – you are **required** to meet with your assigned TA **in-person** for 15-30 minutes. You can see your assigned TA on  the  [**Staff**](https://dsc-capstone.org/2025-26/staff) pages.
