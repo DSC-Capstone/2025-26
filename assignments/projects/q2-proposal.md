@@ -176,12 +176,11 @@ This framework should sound familiar, and that's because something similar is di
 
 ### Examples
 
-Here are a few selected elevator pitches from earlier cohorts.
+Here is an elevator pitch from the previous cohort.
 
 <table style="box-shadow:none;">
   <tr>
-    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/vA81wwj9g1s?si=8MUQju6rxfMggH_5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><center>Nicole Brye (<a href="https://www.youtube.com/watch?v=vA81wwj9g1s">direct link</a>)</center></td>
-    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/AvDyMEllmJI?si=kG5ojVpupLJh-puE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><center>Alan Miyazaki (<a href="https://youtu.be/AvDyMEllmJI?si=QdiT1TNcWeAOSxLo">direct link</a>)</center></td>
+    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/OcSWT5ze1i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><center>Quentin Callahan(<a href="https://www.youtube.com/watch?v=OcSWT5ze1i8">direct link</a>)</center></td>
   </tr>
 </table>
 
