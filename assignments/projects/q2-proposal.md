@@ -176,13 +176,16 @@ This framework should sound familiar, and that's because something similar is di
 
 ### Examples
 
-Here is an elevator pitch from the previous cohort.
+Here is a couple of elevator pitches from the previous cohort.
 
 <table style="box-shadow:none;">
   <tr>
     <td><iframe width="560" height="315" src="https://www.youtube.com/embed/OcSWT5ze1i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><center>Quentin Callahan(<a href="https://www.youtube.com/watch?v=OcSWT5ze1i8">direct link</a>)</center></td>
+    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/lJg6p_GFtU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><center>Nilay Menon(<a href="https://www.youtube.com/watch?v=lJg6p_GFtU4">direct link</a>)</center></td>
   </tr>
 </table>
+
+
 
 ### Tips
 
