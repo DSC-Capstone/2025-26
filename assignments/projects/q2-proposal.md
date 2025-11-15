@@ -203,13 +203,13 @@ Even though elevator pitches **do not contain slides**, it's a good idea to use 
 
 You'll present your elevator pitch in two stages:
 1. First, you'll deliver a _dry run_ of your elevator pitch to your TA and the rest of your project group. Think of the dry run as a "checkpoint" for your final elevator pitch – it doesn't need to be polished at this stage. You will present your dry run at your [**Week 8/9 TA check-in**](https://dsc-capstone.org/2025-26/assignments/projects/q1-week-9-10-checkin); we'll make an announcement on Piazza once you can sign up for these.
-2. Then, you'll **individually** record a video of you presenting your elevator pitch to YouTube and submit a link to it on Gradescope. There should be no slides in the video, just your face talking. (Let Suraj know if you have any concerns with this requirement.)
+2. Then, you'll **individually** record a video of you presenting your elevator pitch to YouTube and submit a link to it on Gradescope. There should be no slides in the video, just your face talking. (Let the instructor know if you have any concerns with this requirement.)
 
 Note that every member of your group will have to record separate videos, even if you write your pitches together and they are largely similar.
 
 Unlike the written proposal and schedule, your elevator pitch will be graded by your TA. Each of the six bullet points below are worth 1 point.
 
-- **Style**: Between 1 and 3 minutes long and clear, and is not too rushed or too basic.
+- **Style**: Between 2 and 3 minutes long and clear, and is not too rushed or too basic.
 - **Style**: Not overly scripted, though reading off of notes _a little_ is fine.
 - **Setup**: Introduces the problem area to a general audience.
 - **Setup**: Explains why the area is interesting to a general audience.
