@@ -158,7 +158,7 @@ A few things to note before the quarter begins:
   - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
 - There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](https://dsc-capstone.org/2025-26/office-hours) held by the methodology TAs each week.
 - Make sure you can access the following sites; email the instructor if you can't:
-    - The **new** 2025 [Gradescope](#), where all assignments will be submitted.
+    - The **new** WI 2026 [Gradescope](https://www.gradescope.com/courses/1197992), where all assignments will be submitted.
     - We will use the same [Piazza](https://piazza.com/ucsd/fall2025/dsc180) instance as we did in the fall. **All class-wide announcements will be sent here!**
 
 ---
@@ -177,11 +177,11 @@ As in Quarter 1, discussion section will focus on your domain. Each week, a repr
 
 The weekly check-in gives you an opportunity to practice talking about technical material, solicit feedback from your mentor, and learn from other teams' successes and obstacles. As such, **attendance in discussion each week is mandatory, like in Quarter 1**. If you're unable to attend in a given week, work out an arrangement with your mentor in advance.
 
-**With that all said, you're expected to meet with your group at least once per week outside of your discussion section.** To make sure that all group members are on track, we'll have you create a running Google Doc in which your group details who did what each week, and submit a snapshot of it each Sunday by 11:59PM. This constitutes the [Participation](https://dsc-capstone.org/2025-26/assignments/participation/q2) assignment this quarter.
+**With that all said, you're expected to meet with your group at least once per week outside of your discussion section.** To make sure that all group members are on track, we'll have you create a running Google Doc in which your group details who did what each week, and submit a snapshot of it each Sunday by 11:59PM. This constitutes the [Participation](https://dsc-capstone.org/2025-26/assignments/participation/q2) assignment this quarter. In addition, you will also need to meet your TAs every week to explain progress and ensure that EACH member has contributed to the project.  The onus is on YOU to set up a weekly appointment with your TA. All members MUST be present. These meetings may happen online. 
 
 ### Office Hours
 
-In addition to any office hours your mentor may hold, methodology course staff will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](https://dsc-capstone.org/2025-26/office-hours) page for the schedule. Your TA continues to remain the same as in the previous quarter (who, like in Quarter 1, you'll be required to check in with a few times throughout the quarter in dedicated check-in slots).
+In addition to any office hours your mentor may hold, TAs will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](https://dsc-capstone.org/2025-26/office-hours) page for the schedule. Your TA will remain the same througout the quarter.
 
 ## Assignments and Grades
 
@@ -192,11 +192,11 @@ _Note: These weights may change slightly during the first two weeks of the quart
 | Component | Description | Weight |
 | --- | --- | --- |
 | Checkpoints | Each component of the Quarter 2 Project has a checkpoint to ensure that you're on track. | 10% |
-| Primary deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself which needs to be demonstrated to the TAs and mentors. However, a report is required to be submitted by all and is the entity that is graded formally. See the [Quarter 2 Project](https://dsc-capstone.org/2025-26/assignments/projects/q2) spec for more details. |  45% |
-| Secondary deliverable | Each one of you will have to put together a website describing your project in detail. For those building a product, this product should be accessible from the website.  | 15% |
-| Poster presentation | Your produced poster and presentations at the [**in-person capstone showcase**](#) will be graded on polish and clarity. | 15% |
-| Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lesson 3 of Quarter 1. | 5% |
-| [Participation questions](https://dsc-capstone.org/2025-26/assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved.	 | 5% |
+| Project Deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself which needs to be demonstrated to the TAs and mentors. However, a report is required to be submitted by all and is the entity that is graded formally. See the [Quarter 2 Project](https://dsc-capstone.org/2025-26/assignments/projects/q2) spec for more details. |  45% |
+| Project Website| Each team will have to put together a website describing your project in detail. For those building a product, this product should be accessible from the website.  | 10% |
+| Poster presentation | Your produced poster and presentations at the [**in-person capstone showcase**](#) will be graded on polish and clarity. | 10% |
+| Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lesson 3 of Quarter 1. | 10% |
+| [Participation](https://dsc-capstone.org/2025-26/assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved and presenting them satisfactorily to your TA | 20% |
 | Overall participation | As in Quarter 1, your mentor will assign you an overall participation grade at the end of the quarter. | 5% |
 
 ### Grading Policy
