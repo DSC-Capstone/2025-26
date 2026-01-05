@@ -12,6 +12,6 @@ domains: A06, A11, B08, B16, B18, B24, B25, B26
 hometown: China
 research: Trustworthy Machine Learning, Online Optimization, Online Learning 
 expertise: "ML algorithms, optimization, modeling"
-askabout: Badminton, Hiking, Photography, Painting, Yoga, And my cat 🐱
+askabout: Badminton, Hiking, Photography, Painting, Yoga, My cat 🐱
 foodemoji: 🍲 🍣 🍛 🍰 
 ---
