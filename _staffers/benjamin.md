@@ -1,6 +1,6 @@
 ---
 name: Benjamin TenWolde
-role: Mentor
+role: Teaching Assistant
 email: betenwolde@ucsd.edu
 pronouns: He/Him
 website: https://www.linkedin.com/in/bentenwolde/
