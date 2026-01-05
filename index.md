@@ -18,6 +18,64 @@ This site is under construction! -->
 ** Note: This schedule is subject to change. We expect this schedule to stabilize by end Sept for the Fall quarter and by mid-January for the Winter Quarter **
 
 
+### Winter 2026 Schedule
+<table>
+    <colgroup>
+        <col style="width: 2%" />
+        <col style="width: 98%" />
+    </colgroup>
+    <thead class="header">
+        <tr>
+            <th>Week</th>
+            <th colspan=2>Tasks<br><span style="font-weight:normal">These are all in addition to <a href="https://dsc-capstone.org/2025-26/assignments/participation/q2">Weekly Participation Assignment</a>, which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you. </span></th>
+        </tr>
+    </thead>
+    <tbody> 
+         <tr>
+            <td>1</td>
+            <td>Read the <a href="https://dsc-capstone.org/2025-26/syllabus"> Syllabus </a> and <a href="https://dsc-capstone.org/2025-26/assignments/projects/q2"> Quarter 2 Project</a> specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first Weekly Participation Assignment as a group by <b>Sunday, January 11th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us.</td>
+        </tr>
+        <!--
+        <tr>
+            <td>2</td>
+            <td>Keep working!</td>
+        </tr>
+        <tr>
+            <td> 3 </td>
+            <td><a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week3-checkin">Sign up for and attend your Week 3 TA Check-In.</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td> <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-ethics-checkin">Sign up for an Ethics Check-in with Prof. David Danks</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td> ✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/report">Report Checkpoint</a> and <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/code"> Code Checkpoint</a> by <b>Sunday, February 9th</b>.<br>Attend an Ethics Check-In with Prof. David Danks between February 3rd and 14th.</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation"> Poster Checkpoint</a> by  <b>Sunday, February 16th</b>. </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/website"> Website Checkpoint</a> by  <b>Sunday, February 23rd</b>.<br> <b>Update</b> your poster to follow the new <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation#branding"> Branding Guidelines.</a> </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Sign up for and attend a <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week8-checkin"> Week 8 TA Checkin</a>, where you will present a dry run of your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster Presentation</a>.<br><b><a href="https://dsc-capstone.org/showcase-25">RSVP for your block at the showcase.</a></b>  </td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Keep Working!</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>✅ <b style="color:green">Place</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster print order for printing </a> by <b>March 6th to Triton Print. See Piazza for details </b>.<br>✅ <b style="color:green">Submit</b> your poster, report, code, website, and contribution statement by <b>Sunday, March 9th and attend the Showcase on March Friday, 14th</b></td>
+        </tr>
+    </tbody> 
+</table> 
+
+-->
 
 ### Fall 2025 Schedule
 
@@ -113,62 +171,4 @@ This site is under construction! -->
     </tbody>
 </table>
 
-### Winter 2026 Schedule - Coming in January 2026
-<!--
-<table>
-    <colgroup>
-        <col style="width: 2%" />
-        <col style="width: 98%" />
-    </colgroup>
-    <thead class="header">
-        <tr>
-            <th>Week</th>
-            <th colspan=2>Tasks<br><span style="font-weight:normal">These are all in addition to <a href="https://dsc-capstone.org/2024-25/assignments/participation/q2">Weekly Participation Assignment</a>, which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you. Unlike the fall quarter, every group MUST submit by Sunday midnight each week. </span></th>
-        </tr>
-    </thead>
-    <tbody> 
-         <tr>
-            <td>1</td>
-            <td>Read the <a href="https://dsc-capstone.org/2024-25/syllabus"> Syllabus </a> and <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2"> Quarter 2 Project</a> specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first Weekly Participation Assignment as a group by <b>Sunday, January 12th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us.</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Keep working!</td>
-        </tr>
-        <tr>
-            <td> 3 </td>
-            <td><a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week3-checkin">Sign up for and attend your Week 3 TA Check-In.</a></td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td> <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-ethics-checkin">Sign up for an Ethics Check-in with Prof. David Danks</a></td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td> ✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/report">Report Checkpoint</a> and <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/code"> Code Checkpoint</a> by <b>Sunday, February 9th</b>.<br>Attend an Ethics Check-In with Prof. David Danks between February 3rd and 14th.</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation"> Poster Checkpoint</a> by  <b>Sunday, February 16th</b>. </td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/website"> Website Checkpoint</a> by  <b>Sunday, February 23rd</b>.<br> <b>Update</b> your poster to follow the new <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation#branding"> Branding Guidelines.</a> </td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>Sign up for and attend a <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week8-checkin"> Week 8 TA Checkin</a>, where you will present a dry run of your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster Presentation</a>.<br><b><a href="https://dsc-capstone.org/showcase-25">RSVP for your block at the showcase.</a></b>  </td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Keep Working!</td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>✅ <b style="color:green">Place</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster print order for printing </a> by <b>March 6th to Triton Print. See Piazza for details </b>.<br>✅ <b style="color:green">Submit</b> your poster, report, code, website, and contribution statement by <b>Sunday, March 9th and attend the Showcase on March Friday, 14th</b></td>
-        </tr>
-    </tbody> 
-</table> 
-
--->
 ---
