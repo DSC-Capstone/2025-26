@@ -71,11 +71,11 @@ This site is under construction! -->
         <tr>
             <td>10</td>
             <td>✅ <b style="color:green">Place</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster print order for printing </a> by <b>March 6th to Triton Print. See Piazza for details </b>.<br>✅ <b style="color:green">Submit</b> your poster, report, code, website, and contribution statement by <b>Sunday, March 9th and attend the Showcase on March Friday, 14th</b></td>
-        </tr>
+        </tr> -->
     </tbody> 
 </table> 
 
--->
+
 
 ### Fall 2025 Schedule
 
