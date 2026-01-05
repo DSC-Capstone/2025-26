@@ -1,6 +1,6 @@
 ---
 name: Amitash Nanda
-role: Teaching Assistant
+role: ta
 email: ananda@ucsd.edu
 pronouns: He/His/him
 website: https://github.com/amitashnanda/
