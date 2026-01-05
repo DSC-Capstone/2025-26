@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: marahaman@ucsd.edu
 pronouns: he/him
 website: https://masfiqur-rahaman.github.io/
-photo: https://dsc-capstone.org/2024-25/assets/staff-images/Masfiqur_Rahaman.png
+photo: https://dsc-capstone.org/2024-25/assets/staff-images/Masfiqur_Rahaman.jpg
 current: Ph.D. Student, Data Science, UCSD
 education: MSc CSE BUET, BSc CSE BUET
 domains: B01, A08, B15, A10, B05, A09, A13, B21, A03
