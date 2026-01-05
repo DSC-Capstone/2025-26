@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: cac024@ucsd.edu
 pronouns: she/her
 website: https://canchen-cc.github.io
-photo: https://dsc-capstone.org/2025-26/assets/staff-images/Can.JPG
+photo: https://dsc-capstone.org/2025-26/assets/staff-images/can.JPG
 office hours: 
 current: Ph.D. Student, HDSI, UCSD
 education: MS HDSI UCSD
