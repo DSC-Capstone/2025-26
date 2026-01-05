@@ -13,8 +13,8 @@ nav_exclude: true
 
 ---
 
-- Checkpoint due **Sunday, February 9th**
-- Final submission due **Sunday, March 9th**
+- Checkpoint due **Sunday, February 15th**
+- Final submission due **Sunday, March 8th**
 - Graded by **mentors**
 
 ---
@@ -39,7 +39,7 @@ Tip: The figures in your report should **not** be created from screenshots:
   - Plots should be saved programmatically (e.g. using `plt.savefig`) and imported (or converted from a notebook).
 
 {: .green }
-> **Checkpoint (due Sunday, February 9th)**
+> **Checkpoint (due Sunday, February 15th)**
 > 
 > The purpose of your report checkpoint is an opportunity to get feedback from your mentor. For your checkpoint, submit a PDF containing a _draft_ of your report, with:
 > - Headings for every section you plan to write (e.g. "Introduction", "Methods", "Results", "Conclusion", "Appendix", "Contributions"). This will make it easy to fill in the remaining sections later.
