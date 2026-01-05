@@ -11,15 +11,15 @@ nav_exclude: true
 [🔙 to the main Quarter 2 Project page](../)
 
 ---
-- Checkpoint due **Sunday, February 23rd**
-- Final submission due **Sunday, March 9th**
-- Graded by **methodology staff**
+- Checkpoint due **Sunday, February 22nd**
+- Final submission due **Sunday, March 8th**
+- Graded by **your TA**
 
 ---
 
 ## Overview
 
-You will create a static website that serves as a public-facing version of your report. To get a sense of the types of websites students created in the past, refer to [last year's project websites](https://dsc-capstone.org/showcase-24).
+You will create a static website that serves as a public-facing version of your report. To get a sense of the types of websites students created in the past, refer to [last year's project websites](https://dsc-capstone.org/showcase-25).
 
 
 Anyone on the internet may stumble across your website, whether that's a recruiter that messages you on LinkedIn, your friends and family from home, someone on the internet who Googles your research area, or even an expert who is interested in your results. As such, your website should be targeted towards a general audience. Not everyone needs to know the details of your work immediately; instead, the goal of your website should be to **get the general public interested in your project and why it is impactful, and to encourage them to read further if interested**. Realistically, nobody is going to read your report or look at the code in your GitHub repository – both of which should be linked from your website – unless they have a good reason to.
@@ -70,7 +70,7 @@ If your project is a traditional methods or analysis project, your primary deliv
 > All that's required for the checkpoint is that you set up the skeleton/outline of your project webpage. It should contain titles and headers, but doesn't need to contain content – all we need to see is that you put thought into how your webpage is organized.
 > 
 > To submit the checkpoint, you'll submit a link to the repository containing the code to your website (not the link to your website itself). The `README.md` in that code repository should contain a link to the website itself, which we can use to visit your page.
-> Your TA will review your website with you in your Week 8 Check-In.
+> Your TA will review your website with you in during Week 8 or 9.
 
 <br>
 

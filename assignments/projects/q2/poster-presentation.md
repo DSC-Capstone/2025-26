@@ -12,13 +12,13 @@ nav_exclude: true
 [🔙 to the main Quarter 2 Project page](../)
 
 ---
-- Poster checkpoint due **Sunday, February 16th**
-- Presentation checkpoint delivered during **Week 8 Check-In**
-- Final poster due **Sunday, March 9th**
-- Presentation delivered at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25)
-- Poster graded by **mentors**, presentation graded by **methodology staff**
+- Poster checkpoint due **Sunday, February 15th**
+- Presentation checkpoint delivered during **Week 9**
+- Final poster due **Sunday, March 8th**
+- Presentation delivered at [**capstone showcase on Friday, March 13th**](https://dsc-capstone.org/showcase-25)
+- Poster content graded by **mentors**, presentation graded by **your TA**
 
-[Submit your poster for printing to Triton Print by March 6th. Final submissions of all material for the capstone project will be due by 9th March](){: .btn .btn-blue }
+[Submit your poster for printing to Triton Print by March 8th. Final submissions of all material for the capstone project will be due by 8th March](){: .btn .btn-blue }
 
 ---
 
@@ -32,7 +32,7 @@ nav_exclude: true
 
 ## Overview
 
-The capstone showcase on **Friday, March 14th** will be a poster session, which means you will present your project using a poster. During your assigned block – either 11AM-12:30PM or 1-2:30PM, you and your group will stand next to your poster as attendees approach you to ask and hear about your work.
+The capstone showcase on **Friday, March 13th** will be a poster session, which means you will present your project using a poster. During your assigned block, you and your group will stand next to your poster as attendees approach you to ask and hear about your work.
 
 If you've never seen a poster session before, you can see footage of the 2018 CSE Internship Symposium poster session below.
 
@@ -204,13 +204,13 @@ Then, consult the following links for additional guidance.
 ### Checkpoint and Submission
 
 {: .green }
-> **Poster Checkpoint (due Sunday, February 16th)**
+> **Poster Checkpoint (due Sunday, February 15th)**
 > 
 > For this checkpoint, all you need to do is submit a draft of your poster as a PDF. Your mentor will provide feedback on this draft.
 
 
 
-[Once again, you must place your print order with Triton Print for the poster by March 6th. Final submissions of the all capstone material will be due by March 9th 11.59pm](){: .btn .btn-blue }
+[Once again, you must place your print order with Triton Print for the poster by March 8th. Final submissions of the all capstone material will be due by March 8th 11.59pm](){: .btn .btn-blue }
 
 {: .red }
-**We will  pay for the printing costs of your poster. Instructions have been posted on Piazza.**
+**We will pay for the printing costs of your poster. Instructions have been posted on Piazza.**

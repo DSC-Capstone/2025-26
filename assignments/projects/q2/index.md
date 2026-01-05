@@ -16,26 +16,26 @@ You will have to produce four main deliverables for your Quarter 2 Project. Each
 
 | | Checkpoint Due Date | Final Due Date |
 | --- |:---|:---|
-| [**Report**](report) | Sunday, February 9th | Sunday, March 9th |
-| [**Code**](code) | Sunday, February 9th | Sunday, March 9th |
-| [**Website**](website) | Sunday, February 23rd | Sunday, March 9th |
-| [**Poster and Presentation**](poster-presentation) | Poster checkpoint due Sunday, February 16th<br>Presentation checkpoint delivered in Week 8 Check-In | Poster due Sunday, March 9th<br>Presentation will be at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25) |
+| [**Report**](report) | Sunday, February 15th | Sunday, March 8th |
+| [**Code**](code) | Sunday, February 15th | Sunday, March 8th |
+| [**Website**](website) | Sunday, February 22nd | Sunday, March 8th |
+| [**Poster and Presentation**](poster-presentation) | Poster checkpoint due Sunday, February 22nd<br>Presentation checkpoint delivered in Week 9 | Poster due Sunday, March 8th<br>Presentation will be at [**capstone showcase on Friday, March 13th**](https://dsc-capstone.org/showcase-26) |
 
 {: .red }
 **Make sure to click and thoroughly read through all four pages linked in the first column of the table above!**
 
 Roughly speaking, you'll spend the first half of the quarter working on your project, and the second half preparing your deliverables and rehearsing your presentation. All deliverables have an accompanying checkpoint, which serve to ensure that you're on track to finish all components in time and to give you an opportunity to receive feedback from your mentor and methodology staff.
 
-All deliverables and checkpoints must be submitted as a group on Gradescope. The only component you will submit individually is a "contribution statement" towards the end of the quarter. Each deliverable will be graded using the same [A/B/C/F rubric](https://dsc-capstone.org/2024-25/syllabus#general-rubric) from Quarter 1; different group members _can_ end up with different grades for the same work, depending on the answers to the weekly [participation](https://dsc-capstone.org/2024-25/assignments/participation/q2) questions and the contribution statement.
+All deliverables and checkpoints must be submitted as a group on Gradescope. The only component you will submit individually is a "contribution statement" towards the end of the quarter. Each deliverable will be graded using the same [A/B/C/F rubric](https://dsc-capstone.org/2025-26/syllabus#general-rubric) from Quarter 1; different group members _can_ end up with different grades for the same work, depending on the answers to the weekly [participation](https://dsc-capstone.org/2025-26/assignments/participation/q2) questions and the contribution statement.
 
-The deadlines for each deliverable and checkpoint are above and on the [course homepage](https://dsc-capstone.org/2024-25/). To reiterate, the most important dates are:
-  - **Friday, March 14th from 11AM-2:30PM**, which is when the [**in-person capstone showcase**](https://dsc-capstone.org/showcase-25) is. This will be attended by UCSD faculty and students, and HDSI industry partners. All capstone students will be required to present their poster either during the 11AM-12:30PM block or the 1-2:30PM block; we will assign groups to blocks sometime in February.
-  - **Sunday, March 9th at 11:59PM**, the deadline by which you must submit to us a PDF of the poster you will present at the capstone showcase. We are coordinating a bulk order with campus printing services and they may not be able to print your poster in time if we receive it any later than that. (You will not have to pay for your poster.)
+The deadlines for each deliverable and checkpoint are above and on the [course homepage](https://dsc-capstone.org/2025-26/). To reiterate, the most important dates are:
+  - **Friday, March 13th**, which is when the [**in-person capstone showcase**](https://dsc-capstone.org/showcase-26) is. This will be attended by UCSD faculty and students, and HDSI industry partners. All capstone students will be required to present their poster either during your assigned block; we will assign groups to blocks sometime in February.
+  - **Sunday, March 8th at 11:59PM**, the deadline by which you must submit to us a PDF of the poster you will present at the capstone showcase. We are coordinating a bulk order with campus printing services and they may not be able to print your poster in time if we receive it any later than that. (You will not have to pay for your poster.)
 
 {: .note }
 DSC 180B is a 4-unit course, which per campus rules means you should expect to spend 12 hours per week on it total. Remember that your goal in DSC 180B is to produce a capstone project you'll be proud to show others and look back at in the future, _not_ just to receive an A.
 
-In addition to the aforementioned deliverables and checkpoints, you'll need to complete two mandatory check-ins with your TA – one in Week 3 and one in Week 8. Additionally, during Weeks 5-6, all groups will also be required to meet with Professor David Danks to discuss the ethical implications of their work.
+In addition to the aforementioned deliverables and checkpoints, you'll need to meet with your TA every week to update them of your progress and ensure that everyone on your team is putting in the required effort.
 
 ---
 
