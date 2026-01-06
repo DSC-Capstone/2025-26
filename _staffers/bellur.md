@@ -7,7 +7,7 @@ website: https://ubellur.github.io
 photo: https://dsc-capstone.org/2025-26/assets/staff-images/ub-highres-small.jpg
 current: Visiting Professor, Halıcıoğlu Data Science Institute, School of Computing, Information and Data Science
 education: Ph.D., ECE, Syracuse University
-
+ohs: Mondays 3-4pm, HDSI 242
 current: Visiting Professor, HDSI, UCSD. Professor, CSE - IIT  Bombay
 hometown: Whereever I am. 
 research: Large Scale Distributed systems, Big Data, Distributed Ledgers, Serverless Clouds
