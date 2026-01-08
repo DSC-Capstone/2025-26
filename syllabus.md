@@ -192,9 +192,9 @@ _Note: These weights may change slightly during the first two weeks of the quart
 | Component | Description | Weight |
 | --- | --- | --- |
 | Checkpoints | Each component of the Quarter 2 Project has a checkpoint to ensure that you're on track. | 10% |
-| Project Deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself which needs to be demonstrated to the TAs and mentors. However, a report is required to be submitted by all and is the entity that is graded formally. See the [Quarter 2 Project](https://dsc-capstone.org/2025-26/assignments/projects/q2) spec for more details. |  50% |
-| Project Website| Each team will have to put together a website describing your project in detail. For those building a product, this product should be accessible from the website.  | 5% |
-| Poster presentation | Your produced poster and presentations at the [**in-person capstone showcase**](#) will be graded on polish and clarity. | 5% |
+| Project Deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself which needs to be demonstrated to the TAs and mentors. However, a report is required to be submitted by all and is the entity that is graded formally. See the [Quarter 2 Project](https://dsc-capstone.org/2025-26/assignments/projects/q2) spec for more details. |  40% |
+| Project Website| Each team will have to put together a website describing your project in detail. For those building a product, this product should be accessible from the website.  | 10% |
+| Poster presentation | Your produced poster and presentations at the [**in-person capstone showcase**](#) will be graded on polish and clarity. | 10% |
 | Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lesson 3 of Quarter 1. | 10% |
 | [Participation](https://dsc-capstone.org/2025-26/assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved and presenting them satisfactorily to your TA | 15% |
 | Overall participation | As in Quarter 1, your mentor will assign you an overall participation grade at the end of the quarter. | 5% |
