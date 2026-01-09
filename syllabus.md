@@ -148,7 +148,7 @@ With all of that said, in this course, you should not worry about your letter gr
 ---
 # Quarter 2 (DSC 180B, Winter 2026)
 
-In Quarter 2, you will execute your [Quarter 2 Project](https://dsc-capstone.org/2025-26/assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our **in-person capstone showcase** on Friday, March 14th).
+In Quarter 2, you will execute your [Quarter 2 Project](https://dsc-capstone.org/2025-26/assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our **in-person capstone showcase** on Friday, March 13th).
 
 ## Getting Started
 
