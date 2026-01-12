@@ -5,7 +5,7 @@ email: cac024@ucsd.edu
 pronouns: she/her
 website: https://canchen-cc.github.io
 photo: https://dsc-capstone.org/2025-26/assets/staff-images/can.JPG
-office hours: 
+office hours: Mondays 9-10am, HDSI 255
 current: Ph.D. Student, HDSI, UCSD
 education: MS HDSI UCSD
 domains: A06, A11, B08, B16, B18, B24, B25, B26
