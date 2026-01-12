@@ -33,7 +33,7 @@ This site is under construction! -->
     <tbody> 
          <tr>
             <td>1</td>
-            <td>Read the <a href="https://dsc-capstone.org/2025-26/syllabus"> Syllabus </a> and <a href="https://dsc-capstone.org/2025-26/assignments/projects/q2"> Quarter 2 Project</a> specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first Weekly Participation Assignment as a group by <b>Sunday, January 11th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us. <br><br> < a href="https://drive.google.com/file/d/15Qw_NU3C8KAakA-sTa0JPksv5zQqQvTC/view?usp=sharing">Link to presentation used in class on Friday, January 9th.</a></td>
+            <td>Read the <a href="https://dsc-capstone.org/2025-26/syllabus"> Syllabus </a> and <a href="https://dsc-capstone.org/2025-26/assignments/projects/q2"> Quarter 2 Project</a> specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first Weekly Participation Assignment as a group by <b>Sunday, January 11th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us. <br><br> <a href="https://drive.google.com/file/d/15Qw_NU3C8KAakA-sTa0JPksv5zQqQvTC/view?usp=sharing"> Link to presentation used in class on Friday, January 9th.</a></td>
         </tr>
         <tr>
             <td>2</td>
