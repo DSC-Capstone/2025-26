@@ -41,7 +41,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td> 3 </td>
-            <td>Work on project! Submit your weekly PA on Sunday, Jan 25th <br><br> Submit the second of three Ethics and Society assignments on Gradescope <a href="https://www.gradescope.com/courses/1197992/assignments/7468215/grade"> HERE </a></td>
+            <td>Work on project! Submit your weekly PA on Sunday, Jan 25th <br><br> Submit the second of three Ethics and Society assignments on Gradescope <a href="https://www.gradescope.com/courses/1197992/assignments/7468215"> HERE </a></td>
         </tr> 
 <!--        <tr>
             <td>4</td>
