@@ -39,12 +39,11 @@ This site is under construction! -->
             <td>2</td>
             <td>Work on project! Submit your weekly PA on Sunday, Jan 18th. <br><br> Submit the first of three Ethics and Society assignments on Gradescope <a href="https://www.gradescope.com/courses/1197992/assignments/7417495"> HERE </a></td>
         </tr>
-        <!--
         <tr>
             <td> 3 </td>
-            <td><a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week3-checkin">Sign up for and attend your Week 3 TA Check-In.</a></td>
-        </tr>
-        <tr>
+            <td>Work on project! Submit your weekly PA on Sunday, Jan 25th <br><br> Submit the second of three Ethics and Society assignments on Gradescope <a href="https://www.gradescope.com/courses/1197992/assignments/7468215/grade"> HERE </a></td>
+        </tr> 
+<!--        <tr>
             <td>4</td>
             <td> <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-ethics-checkin">Sign up for an Ethics Check-in with Prof. David Danks</a></td>
         </tr>
