@@ -12,10 +12,10 @@ nav_exclude: true
 [🔙 to the main Quarter 2 Project page](../)
 
 ---
-- Poster checkpoint due **Sunday, February 15th**
+- Poster checkpoint due **Sunday, February 22nd**
 - Presentation checkpoint delivered during **Week 9**
 - Final poster due **Sunday, March 8th**
-- Presentation delivered at [**capstone showcase on Friday, March 13th**](https://dsc-capstone.org/showcase-25)
+- Presentation delivered at [**capstone showcase on Friday, March 13th**](https://dsc-capstone.org/showcase-26)
 - Poster content graded by **mentors**, presentation graded by **your TA**
 
 [Submit your poster for printing to Triton Print by March 8th. Final submissions of all material for the capstone project will be due by 8th March](){: .btn .btn-blue }
