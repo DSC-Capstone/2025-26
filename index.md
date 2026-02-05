@@ -48,9 +48,10 @@ This site is under construction! -->
             <td> Work on your project and meet your TA. Submit your weekly PA by Sunday, February 1st</td>
         </tr>
         <tr>
-        <!--    <td>5</td>
-            <td> ✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/report">Report Checkpoint</a> and <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/code"> Code Checkpoint</a> by <b>Sunday, February 9th</b>.<br>Attend an Ethics Check-In with Prof. David Danks between February 3rd and 14th.</td>
+        <td>5</td>
+            <td> Submit the last of the Ethics assignments and your weekly PA (due by Sunday, 8th). </td>
         </tr>
+        <!--
         <tr>
             <td>6</td>
             <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation"> Poster Checkpoint</a> by  <b>Sunday, February 16th</b>. </td>
