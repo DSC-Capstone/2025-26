@@ -53,7 +53,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>6</td>
-            <td>✅ <b style="color:green">Submit</b> your Code and Report Checkpoints by  <b>Sunday, February 15th</b>.  <br> <href="https://drive.google.com/file/d/1SypH-7qW23j0eZvaVUyJYpPiLfoxPY40/view?usp=sharing"> The Art of Storytelling </href>a></td>
+            <td>✅ <b style="color:green">Submit</b> your Code and Report Checkpoints by  <b>Sunday, February 15th</b>.  <br><br> <a href="https://drive.google.com/file/d/1SypH-7qW23j0eZvaVUyJYpPiLfoxPY40/view?usp=sharing"> The Art of Storytelling </a></td>
         </tr>
      <!--   <tr>
             <td>7</td>
