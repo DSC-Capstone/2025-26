@@ -51,12 +51,11 @@ This site is under construction! -->
         <td>5</td>
             <td> Submit the last of the Ethics assignments and your weekly PA (due by Sunday, 8th). </td>
         </tr>
-        <!--
         <tr>
             <td>6</td>
-            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation"> Poster Checkpoint</a> by  <b>Sunday, February 16th</b>. </td>
+            <td>✅ <b style="color:green">Submit</b> your Code and Report Checkpoints by  <b>Sunday, February 15th</b>.  <br> <href="https://drive.google.com/file/d/1SypH-7qW23j0eZvaVUyJYpPiLfoxPY40/view?usp=sharing"> The Art of Storytelling </href>a></td>
         </tr>
-        <tr>
+     <!--   <tr>
             <td>7</td>
             <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/website"> Website Checkpoint</a> by  <b>Sunday, February 23rd</b>.<br> <b>Update</b> your poster to follow the new <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation#branding"> Branding Guidelines.</a> </td>
         </tr>
