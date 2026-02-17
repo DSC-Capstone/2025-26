@@ -55,11 +55,11 @@ This site is under construction! -->
             <td>6</td>
             <td>✅ <b style="color:green">Submit</b> your Code and Report Checkpoints by  <b>Sunday, February 15th</b>.  <br><br> <a href="https://drive.google.com/file/d/1SypH-7qW23j0eZvaVUyJYpPiLfoxPY40/view?usp=sharing"> The Art of Storytelling </a></td>
         </tr>
-     <!--   <tr>
+      <tr>
             <td>7</td>
-            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/website"> Website Checkpoint</a> by  <b>Sunday, February 23rd</b>.<br> <b>Update</b> your poster to follow the new <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation#branding"> Branding Guidelines.</a> </td>
+            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2025-26/assignments/projects/q2/website"> Website Checkpoint</a> by  <b>Sunday, February 22nd</b>.✅ <br> Submit your poster draft in line with the <a href="https://dsc-capstone.org/2025-26/assignments/projects/q2/poster-presentation"> Poster Guidelines.</a> </td>
         </tr>
-        <tr>
+        <!--  <tr>
             <td>8</td>
             <td>Sign up for and attend a <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week8-checkin"> Week 8 TA Checkin</a>, where you will present a dry run of your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster Presentation</a>.<br><b><a href="https://dsc-capstone.org/showcase-25">RSVP for your block at the showcase.</a></b>  </td>
         </tr>
