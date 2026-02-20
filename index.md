@@ -59,17 +59,17 @@ This site is under construction! -->
             <td>7</td>
             <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2025-26/assignments/projects/q2/website"> Website Checkpoint</a> by  <b>Sunday, February 22nd</b>. <br> ✅ Submit your poster draft in line with the <a href="https://dsc-capstone.org/2025-26/assignments/projects/q2/poster-presentation"> Poster Guidelines.</a> </td>
         </tr>
-        <!--  <tr>
+        <tr>
             <td>8</td>
-            <td>Sign up for and attend a <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week8-checkin"> Week 8 TA Checkin</a>, where you will present a dry run of your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster Presentation</a>.<br><b><a href="https://dsc-capstone.org/showcase-25">RSVP for your block at the showcase.</a></b>  </td>
+            <td>Present a dry run of your <a href="https://dsc-capstone.org/2025-26/assignments/projects/q2/poster-presentation">Poster Presentation</a> to your TA as a group.<br><b><a href="https://dsc-capstone.org/showcase-26">RSVP for your block at the showcase.</a></b>  </td>
         </tr>
         <tr>
             <td>9</td>
-            <td>Keep Working!</td>
+            <td>Almost at the finish line! Keep Working!</td>
         </tr>
         <tr>
             <td>10</td>
-            <td>✅ <b style="color:green">Place</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster print order for printing </a> by <b>March 6th to Triton Print. See Piazza for details </b>.<br>✅ <b style="color:green">Submit</b> your poster, report, code, website, and contribution statement by <b>Sunday, March 9th and attend the Showcase on March Friday, 14th</b></td>
+            <td>✅ <b style="color:green">Place</b> your Poster print order for printing with Triton Print. See Piazza for details. Its YOUR responsibility to order the printing and pick it up. </b>.<br>✅ <b style="color:green">Submit</b> your poster, report, code, website, and contribution statement by <b>Sunday, March 8th and attend the Showcase on March Friday, 13th</b></td>
         </tr> -->
     </tbody> 
 </table> 
