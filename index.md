@@ -70,7 +70,7 @@ This site is under construction! -->
         <tr>
             <td>10</td>
             <td>✅ <b style="color:green">Place</b> your Poster print order for printing with Triton Print. See Piazza for details. Its YOUR responsibility to order the printing and pick it up. </b>.<br>✅ <b style="color:green">Submit</b> your poster, report, code, website, and contribution statement by <b>Sunday, March 8th and attend the Showcase on March Friday, 13th</b></td>
-        </tr> -->
+        </tr> 
     </tbody> 
 </table> 
 
