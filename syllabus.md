@@ -139,7 +139,7 @@ Individual assignments will be graded on the A/B/C/F scale above, and your overa
 
 your "numerical" grade would be $$0.1 \cdot 4 + 0.05 \cdot 4 + 0.05 \cdot 3 + 0.65 \cdot 4 + 0.15 \cdot 3 = 3.8$$.
 
-You are guaranteed to earn **at least** the letter grade that your numerical grade converts to. For instance, a 3.7 is guaranteed to learn at least an A-, and a 2.0 is guaranteed to earn at least a C. When your numerical grade is between two letter grades, you are guaranteed to earn at least the lower letter grade; for instance, 3.8 is between 3.7 (A-) and 4.0 (A), so a 3.8 is guaranteed to learn at least an A-.
+You are guaranteed to earn **at least** the letter grade that your numerical grade converts to. For instance, a 3.7 is guaranteed to learn at least an A-, and a 2.0 is guaranteed to earn at least a C. When your numerical grade is between two letter grades, you are guaranteed to earn at least the **lower letter grade**; for instance, 3.8 is between 3.7 (A-) and 4.0 (A), so a 3.8 is guaranteed to learn at least an A-.
 
 Note that at the end of Fall 2025 you will receive a grade in DSC 180A, and at the end of Winter 2026 you will receive a grade in DSC 180B; these are two separate courses, each worth 4 units.
 
@@ -202,7 +202,7 @@ _Note: These weights may change slightly during the first two weeks of the quart
 
 ### Grading Policy
 
-Unless otherwise stated, we will follow the same [General Rubric](#general-rubric) as in Quarter 1. We'll also follow the same policy on [Letter Grades](#letter-grades). Note: your grade in DSC 180B is completely independent of your grade in DSC 180A.
+Unless otherwise stated, we will follow the same [General Rubric](#general-rubric) as in Quarter 1. We'll also follow the same policy on [Letter Grades](#letter-grades). Note: your grade in DSC 180B is completely independent of your grade in DSC 180A.  
 
 ## Collaboration Policy and Academic Integrity
 
